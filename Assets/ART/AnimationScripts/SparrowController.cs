@@ -1,4 +1,5 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
@@ -6,10 +7,13 @@ public class SparrowController : MonoBehaviour
 {
     public float groundSpeed = 3.5f;
     public float flySpeed = 6.0f;
-    public float flyTime = 5.0f;
-    public float idleTime = 2.0f;
+    public float minFlyTime = 3.0f;
+    public float maxFlyTime = 7.0f;
+    public float minIdleTime = 1.0f;
+    public float maxIdleTime = 3.0f;
     public float flyHeight = 10.0f;
     public float descendSpeed = 2.0f;
+    public float minSeparationDistance = 2.0f;
 
     private NavMeshAgent agent;
     private Animator animator;
@@ -32,16 +36,26 @@ public class SparrowController : MonoBehaviour
             agent.enabled = true;
             animator.SetBool("isFlying", false);
 
+            // Ensure the Sparrow is on the NavMesh
+            if (!agent.isOnNavMesh)
+            {
+                Vector3 validPosition;
+                if (GetRandomPointOnNavMesh(out validPosition))
+                {
+                    agent.Warp(validPosition);
+                }
+            }
+
             // Move to a random point on the NavMesh
             Vector3 groundTarget;
-            if (GetRandomPointOnNavMesh(out groundTarget))
+            if (agent.isActiveAndEnabled && GetRandomPointOnNavMesh(out groundTarget))
             {
                 agent.SetDestination(groundTarget);
                 // Walking animation
                 animator.SetBool("isWalking", true);
 
                 // Wait until it reaches the destination
-                while (agent.pathPending || agent.remainingDistance > agent.stoppingDistance)
+                while (agent.isActiveAndEnabled && (agent.pathPending || agent.remainingDistance > agent.stoppingDistance))
                 {
                     yield return null;
                 }
@@ -52,7 +66,7 @@ public class SparrowController : MonoBehaviour
 
             // Idle for a while
             animator.SetBool("isIdle", true);
-            yield return new WaitForSeconds(idleTime);
+            yield return new WaitForSeconds(Random.Range(minIdleTime, maxIdleTime));
             animator.SetBool("isIdle", false);
 
             // Fly up to a height in a parabolic trajectory
@@ -60,8 +74,14 @@ public class SparrowController : MonoBehaviour
             agent.enabled = false;
             animator.SetBool("isFlying", true);
 
-            Vector3 flyDirection = GetRandomDirection();
-            Vector3 targetFlyPosition = new Vector3(transform.position.x + flyDirection.x * 10, flyHeight, transform.position.z + flyDirection.z * 10);
+            Vector3 flyDirection;
+            Vector3 targetFlyPosition;
+            do
+            {
+                flyDirection = GetRandomDirection();
+                targetFlyPosition = new Vector3(transform.position.x + flyDirection.x * 10, flyHeight, transform.position.z + flyDirection.z * 10);
+            } while (!IsPointOnNavMesh(targetFlyPosition));
+
             Vector3 startPosition = transform.position;
             float t = 0;
             while (t < 1)
@@ -74,7 +94,14 @@ public class SparrowController : MonoBehaviour
             }
 
             // Fly in the air for a while
-            Vector3 airTargetPosition = new Vector3(targetFlyPosition.x + flyDirection.x * 10, targetFlyPosition.y, targetFlyPosition.z + flyDirection.z * 10);
+            float flyTime = Random.Range(minFlyTime, maxFlyTime);
+            Vector3 airTargetPosition;
+            do
+            {
+                flyDirection = GetRandomDirection();
+                airTargetPosition = new Vector3(targetFlyPosition.x + flyDirection.x * 10, targetFlyPosition.y, targetFlyPosition.z + flyDirection.z * 10);
+            } while (!IsPointOnNavMesh(airTargetPosition));
+
             startPosition = transform.position;
             t = 0;
             while (t < 1)
@@ -131,7 +158,10 @@ public class SparrowController : MonoBehaviour
         if (NavMesh.SamplePosition(randomDirection, out hit, 10f, NavMesh.AllAreas))
         {
             result = hit.position;
-            return true;
+            if (!IsTooCloseToOtherSparrows(result))
+            {
+                return true;
+            }
         }
         result = Vector3.zero;
         return false;
@@ -144,5 +174,25 @@ public class SparrowController : MonoBehaviour
             0,
             Random.Range(-1f, 1f)
         ).normalized;
+    }
+
+    bool IsPointOnNavMesh(Vector3 point)
+    {
+        NavMeshHit hit;
+        return NavMesh.SamplePosition(point, out hit, 1.0f, NavMesh.AllAreas);
+    }
+
+    bool IsTooCloseToOtherSparrows(Vector3 position)
+    {
+        Collider[] hitColliders = Physics.OverlapSphere(position, minSeparationDistance);
+        foreach (var hitCollider in hitColliders)
+        {
+            SparrowController sparrow = hitCollider.GetComponent<SparrowController>();
+            if (sparrow != null && sparrow != this)
+            {
+                return true;
+            }
+        }
+        return false;
     }
 }
