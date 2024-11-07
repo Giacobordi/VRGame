@@ -3,12 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Boundary
+  - Animal
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Terrain
   - Water
   - UI
   - 
@@ -35,7 +37,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Animal
   - Trees
   m_SortingLayers:
   - name: Default
