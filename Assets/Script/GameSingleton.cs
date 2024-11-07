@@ -6,7 +6,7 @@ public class GameSingleton : MonoBehaviour
 {
     public static GameSingleton instance;
     public Ascia ascia;
-    public Pino pino;
+    //public Pino pino;
 
     // Start is called before the first frame update
     void Start()
@@ -21,7 +21,6 @@ public class GameSingleton : MonoBehaviour
             Destroy(gameObject);
         }
         ascia = new Ascia();
-        pino = new Pino();
     }
 
     // Update is called once per frame

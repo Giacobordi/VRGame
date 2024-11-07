@@ -44,4 +44,10 @@ public class Albero_base
         }
     }
 
+    public void decrementaVita( int attaccoAscia)
+    {
+        this.vita -= attaccoAscia;
+       
+    }
+
 }

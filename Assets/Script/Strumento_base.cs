@@ -47,15 +47,6 @@ public class Strumento_base
         }
     }
 
-    public virtual void RiduciDurabilita(int durabilita)
-    {
-        void onTriggerEnter(Collider other)
-        {
-            if (other.CompareTag("albero"))
-            {
-                durabilita--;
-            }
-        }
-    }
+    
 }
 //sivallet

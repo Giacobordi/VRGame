@@ -13,3 +13,13 @@ public class Pino : Albero_base
     }
 
 }
+
+public class Acero : Albero_base
+{
+    public Acero()
+    {
+        Nome = "Acero";
+        Vita = 6;
+        Pezzi = 2;
+    }
+}
