@@ -9,7 +9,7 @@ public class GameSingleton : MonoBehaviour
     //public Pino pino;
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         if(instance == null)
         {

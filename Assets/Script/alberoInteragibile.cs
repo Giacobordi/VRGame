@@ -8,17 +8,19 @@ public class alberoInteragibile : MonoBehaviour
     public Albero_base alb;
     public Ascia ascia;
     public GameObject albero;
+    public GameObject albero_cadente;
     public tipo albero_da_spawnare;
     public enum tipo
     {
         acero,
         pino
     }
+
     // Start is called before the first frame update
     void Start()
     {
         ascia = GameSingleton.instance.ascia;
-
+        albero_cadente.SetActive(false);
         switch (albero_da_spawnare)
         {
             case tipo.acero: alb = new Acero();
@@ -33,7 +35,9 @@ public class alberoInteragibile : MonoBehaviour
     {
         if(alb.Vita == 0)
         {
+            albero_cadente.SetActive(true);
             Destroy(gameObject);
+            
         }
     }
 
