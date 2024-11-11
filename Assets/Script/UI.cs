@@ -18,13 +18,14 @@ public class UI : MonoBehaviour
     void Update()
     {
         //Debug.Log("pezzi: "+ contatore_pezzi);
-        testoUI.text = contatore_pezzi.ToString();
+        //testoUI.text = contatore_pezzi.ToString();
 
     }
 
     public void Start_Game()
     {
-
+        //Debug.Log("porcodio");
+        SceneManager.LoadScene("SampleScene");
     }
 
     public void Exit_game()
