@@ -36,8 +36,8 @@ public class alberoInteragibile : MonoBehaviour
         if(alb.Vita == 0)
         {
             albero_cadente.SetActive(true);
+            UI.contatore_pezzi += alb.Pezzi;
             Destroy(gameObject);
-            
         }
     }
 
