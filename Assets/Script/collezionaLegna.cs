@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class collezionaLegna : MonoBehaviour
 {
-    public GameObject albero;
+    //public GameObject albero;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +19,7 @@ public class collezionaLegna : MonoBehaviour
 
     public void raccogliLegna()
     {
-        Destroy(albero);
+        Destroy(gameObject);
+        Debug.Log("su");
     }
 }
