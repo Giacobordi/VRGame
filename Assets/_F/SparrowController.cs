@@ -1,12 +1,13 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.XR.Interaction.Toolkit;
 
 public class SparrowController : MonoBehaviour
 {
     public float groundSpeed = 3.5f;
-    public float minFlyForce = 200f; // Minima forza di volo
-    public float maxFlyForce = 400f; // Massima forza di volo
+    public float minFlyForce = 200f;
+    public float maxFlyForce = 400f;
     public float minFlyTime = 3.0f;
     public float maxFlyTime = 7.0f;
     public float minIdleTime = 1.0f;
@@ -17,14 +18,20 @@ public class SparrowController : MonoBehaviour
     private Rigidbody rb;
     private bool isFlying = false;
     private Vector3 initialPosition;
+    private XRGrabInteractable grabInteractable;
 
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody>();
-        initialPosition = transform.position; // Salva la posizione iniziale
-        rb.isKinematic = true; // Disabilita la fisica all'inizio
+        grabInteractable = GetComponent<XRGrabInteractable>();
+        initialPosition = transform.position;
+        rb.isKinematic = true;
+
+        grabInteractable.onSelectEntered.AddListener(OnGrabbed);
+        grabInteractable.onSelectExited.AddListener(OnReleased);
+
         StartCoroutine(BehaviorRoutine());
     }
 
@@ -32,22 +39,19 @@ public class SparrowController : MonoBehaviour
     {
         while (true)
         {
-            // Fase di movimento a terra
             isFlying = false;
             agent.enabled = true;
-            rb.isKinematic = true; // Disabilita la fisica
+            rb.isKinematic = true;
             rb.useGravity = false;
             agent.speed = groundSpeed;
             animator.SetBool("isFlying", false);
 
-            // Muoviti verso un punto casuale sulla NavMesh
             Vector3 groundTarget;
             if (GetRandomPointOnNavMesh(out groundTarget))
             {
                 agent.SetDestination(groundTarget);
                 animator.SetBool("isWalking", true);
 
-                // Aspetta finché non raggiunge la destinazione
                 while (agent.pathPending || agent.remainingDistance > agent.stoppingDistance)
                 {
                     yield return null;
@@ -56,38 +60,32 @@ public class SparrowController : MonoBehaviour
                 animator.SetBool("isWalking", false);
             }
 
-            // Fase di inattività
             animator.SetBool("isIdle", true);
             yield return new WaitForSeconds(Random.Range(minIdleTime, maxIdleTime));
             animator.SetBool("isIdle", false);
 
-            // Fase di volo
             isFlying = true;
             agent.enabled = false;
-            rb.isKinematic = false; // Abilita la fisica
+            rb.isKinematic = false;
             rb.useGravity = true;
             animator.SetBool("isFlying", true);
 
-            // Lancia l'uccellino in aria con una forza casuale tra minFlyForce e maxFlyForce
             float flyForce = Random.Range(minFlyForce, maxFlyForce);
             Vector3 flyDirection = new Vector3(Random.Range(-1f, 1f), 1, Random.Range(-1f, 1f)).normalized;
             rb.AddForce(flyDirection * flyForce);
 
-            // Aspetta per un tempo casuale
             float flyTime = Random.Range(minFlyTime, maxFlyTime);
             yield return new WaitForSeconds(flyTime);
 
-            // Discesa e atterraggio
             while (isFlying)
             {
-                if (rb.velocity.magnitude < 0.1f && agent.enabled == false) // Controlla se l'uccellino è fermo
+                if (rb.velocity.magnitude < 0.1f && agent.enabled == false)
                 {
                     isFlying = false;
-                    rb.isKinematic = true; // Disabilita la fisica
+                    rb.isKinematic = true;
                     rb.useGravity = false;
                     agent.enabled = true;
 
-                    // Assicurati che l'uccellino sia sulla NavMesh
                     if (!agent.isOnNavMesh)
                     {
                         Vector3 validPosition;
@@ -122,5 +120,32 @@ public class SparrowController : MonoBehaviour
         {
             agent.Warp(initialPosition);
         }
+    }
+
+    void OnGrabbed(XRBaseInteractor interactor)
+    {
+        StopAllCoroutines();
+        agent.enabled = false;
+        rb.isKinematic = false;
+        rb.useGravity = true;
+        animator.SetBool("isFlying", true);
+    }
+
+    void OnReleased(XRBaseInteractor interactor)
+    {
+        rb.isKinematic = false;
+        rb.useGravity = true;
+        animator.SetBool("isFlying", true);
+        StartCoroutine(DelayedReenableNavMeshAgent());
+    }
+
+    IEnumerator DelayedReenableNavMeshAgent()
+    {
+        yield return new WaitForSeconds(10);
+        rb.isKinematic = true;
+        rb.useGravity = false;
+        animator.SetBool("isFlying", false);
+        agent.enabled = true;
+        StartCoroutine(BehaviorRoutine());
     }
 }

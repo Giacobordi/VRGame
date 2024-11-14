@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.XR.Interaction.Toolkit;
 
 public class AnimalController : MonoBehaviour
 {
@@ -17,14 +18,20 @@ public class AnimalController : MonoBehaviour
     private bool isJumping = false;
     private bool kinematicCooldown = false; // Indica se il timer è attivo
     private Vector3 initialPosition;
+    private XRGrabInteractable grabInteractable;
 
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody>();
+        grabInteractable = GetComponent<XRGrabInteractable>();
         initialPosition = transform.position; // Salva la posizione iniziale
         rb.isKinematic = true; // Disabilita la fisica all'inizio
+
+        grabInteractable.onSelectEntered.AddListener(OnGrabbed);
+        grabInteractable.onSelectExited.AddListener(OnReleased);
+
         StartCoroutine(BehaviorRoutine());
     }
 
@@ -147,5 +154,32 @@ public class AnimalController : MonoBehaviour
 
             Debug.Log("Salto terminato: isKinematic abilitato e NavMeshAgent riattivato!");
         }
+    }
+
+    void OnGrabbed(XRBaseInteractor interactor)
+    {
+        StopAllCoroutines();
+        agent.enabled = false;
+        rb.isKinematic = false;
+        rb.useGravity = true;
+        animator.SetBool("isJumping", true);
+    }
+
+    void OnReleased(XRBaseInteractor interactor)
+    {
+        rb.isKinematic = false;
+        rb.useGravity = true;
+        animator.SetBool("isJumping", true);
+        StartCoroutine(DelayedReenableNavMeshAgent());
+    }
+
+    IEnumerator DelayedReenableNavMeshAgent()
+    {
+        yield return new WaitForSeconds(10);
+        rb.isKinematic = true;
+        rb.useGravity = false;
+        animator.SetBool("isJumping", false);
+        agent.enabled = true;
+        StartCoroutine(BehaviorRoutine());
     }
 }
