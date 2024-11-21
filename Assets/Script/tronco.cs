@@ -10,7 +10,7 @@ public class troncoz : MonoBehaviour
     void Start()
     {
         body = GetComponent<Rigidbody>();
-        body.useGravity = false;
+        body.isKinematic = false;
     }
     // Update is called once per frame
     void Update()
@@ -18,11 +18,19 @@ public class troncoz : MonoBehaviour
         
     }
 
-    private void OnTriggerEnter(Collider other)
+    private void OnCollisionEnter(Collision other)
     {
-        if (other.CompareTag("mano"))
+        if (other.gameObject.CompareTag("tronco"))
         {
             body.useGravity = true;
+        }
+    }
+
+    private void OnCollisionExit(Collision other)
+    {
+        if (other.gameObject.CompareTag("tronco"))
+        {
+            body.useGravity = false;
         }
     }
 
