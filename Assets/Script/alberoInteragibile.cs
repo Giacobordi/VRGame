@@ -21,6 +21,7 @@ public class alberoInteragibile : MonoBehaviour
     {
         ascia = GameSingleton.instance.ascia;
         albero_cadente.SetActive(false);
+
         switch (albero_da_spawnare)
         {
             case tipo.acero: alb = new Acero();
