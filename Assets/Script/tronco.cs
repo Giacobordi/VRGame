@@ -6,6 +6,8 @@ using UnityEngine;
 public class troncoz : MonoBehaviour
 {
     public Rigidbody body;
+
+    public bool diocane;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,17 +22,19 @@ public class troncoz : MonoBehaviour
 
     private void OnCollisionEnter(Collision other)
     {
-        if (other.gameObject.CompareTag("tronco"))
+        if (other.gameObject.CompareTag("Tronco"))
         {
-            body.useGravity = true;
+            diocane = true;
+            body.isKinematic = true;
         }
     }
 
     private void OnCollisionExit(Collision other)
     {
-        if (other.gameObject.CompareTag("tronco"))
+        if (other.gameObject.CompareTag("Tronco"))
         {
-            body.useGravity = false;
+            body.isKinematic = false;
+            diocane = false;
         }
     }
 

@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="73260268-fb5a-4b1f-892a-eca39360dcf8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VRGame/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VRGame/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VRGame/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VRGame/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VRGame/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VRGame/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VRGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VRGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vsconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/ANIMALI.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/ANIMALI.meta" afterDir="false" />
@@ -573,6 +577,7 @@
       <change beforePath="$PROJECT_DIR$/Assets/Script/UI.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/UI.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/alberoInteragibile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/alberoInteragibile.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/collezionaLegna.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/collezionaLegna.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/meshChanger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/meshChanger.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/resetAscia.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/resetAscia.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/tronco.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/tronco.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings.meta" afterDir="false" />
@@ -1045,19 +1050,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Gioco-2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "script__lever",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="$USER_HOME$/Desktop/WoodWorkerPCVR\WoodWorker.exe" />
@@ -1119,6 +1124,11 @@
       <option name="presentableId" value="Default" />
       <updated>1732522459834</updated>
       <workItem from="1732522461374" duration="370000" />
+      <workItem from="1733128455250" duration="759000" />
+      <workItem from="1733139796277" duration="5000" />
+      <workItem from="1733139822017" duration="4000" />
+      <workItem from="1733139961538" duration="1939000" />
+      <workItem from="1733306010049" duration="3016000" />
     </task>
     <servers />
   </component>

@@ -16,12 +16,12 @@ public class meshChanger : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
-    void OnTriggerEnter(Collider other)
+    void OnCollisionEnter(Collision other)
     {
-        if (other.CompareTag("Ascia"))
+        if (other.gameObject.CompareTag("Ascia"))
         {
             modeYouWantToChange.mesh = myMesh;
         }
