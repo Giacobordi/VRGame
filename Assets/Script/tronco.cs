@@ -22,7 +22,7 @@ public class troncoz : MonoBehaviour
     {
         if (other.gameObject.CompareTag("tronco"))
         {
-            body.useGravity = true;
+            body.isKinematic = true;
         }
     }
 
@@ -30,7 +30,7 @@ public class troncoz : MonoBehaviour
     {
         if (other.gameObject.CompareTag("tronco"))
         {
-            body.useGravity = false;
+            body.isKinematic = false;
         }
     }
 
