@@ -42,6 +42,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1894016204486304675}
     m_Modifications:
+    - target: {fileID: 207579542226104633, guid: 40f1899456b5dab4fa6f2ce2677aab14,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4051949234411557274, guid: 40f1899456b5dab4fa6f2ce2677aab14,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -97,6 +102,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Type1 05
       objectReference: {fileID: 0}
+    - target: {fileID: 6259717066389236395, guid: 40f1899456b5dab4fa6f2ce2677aab14,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -116,6 +126,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1894016204486304675}
     m_Modifications:
+    - target: {fileID: 1353241810012728381, guid: 60c6da202b237fd46b5f89aea90fccb1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5046604198996314903, guid: 60c6da202b237fd46b5f89aea90fccb1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -171,6 +186,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Type1 04
       objectReference: {fileID: 0}
+    - target: {fileID: 8422662889664363151, guid: 60c6da202b237fd46b5f89aea90fccb1,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -190,6 +210,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1894016204486304675}
     m_Modifications:
+    - target: {fileID: 6678802104824105986, guid: 34165a9d7627d9747a73aa4d1c455124,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6841004308616075351, guid: 34165a9d7627d9747a73aa4d1c455124,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -244,6 +269,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Tree Type1 02
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076758748782743937, guid: 34165a9d7627d9747a73aa4d1c455124,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
