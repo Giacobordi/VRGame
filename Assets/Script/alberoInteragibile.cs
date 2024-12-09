@@ -1,15 +1,24 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq.Expressions;
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
 public class alberoInteragibile : MonoBehaviour
 {
     public Albero_base alb;
     public Ascia ascia;
-    public GameObject albero;
-    public GameObject albero_cadente;
+    //public GameObject albero;
+    //public GameObject albero_cadente;
     public tipo albero_da_spawnare;
+    public GameObject ciocco;
+    public GameObject spawner;
+    public Vector3 spawner_pos;
+    public float distance = 1.5f;
+    public int AlberoVita;
+
+    public static bool alberoATerra;
     public enum tipo
     {
         acero,
@@ -20,7 +29,7 @@ public class alberoInteragibile : MonoBehaviour
     void Start()
     {
         ascia = GameSingleton.instance.ascia;
-        albero_cadente.SetActive(false);
+        //albero_cadente.SetActive(false);
 
         switch (albero_da_spawnare)
         {
@@ -29,17 +38,45 @@ public class alberoInteragibile : MonoBehaviour
             case tipo.pino: alb = new Pino();
                 break;
         }
+        
+        Vector3 spawner_pos2 = new Vector3(Random.Range(spawner.transform.position.x + distance, spawner.transform.position.x - distance), spawner.transform.position.y , Random.Range(spawner.transform.position.z + distance, spawner.transform.position.z - distance) );
+        spawner_pos = spawner_pos2;
 
+        AlberoVita = alb.Vita;
+
+;
     }
     // Update is called once per frame
     void Update()
     {
         if(alb.Vita == 0)
         {
-            albero_cadente.SetActive(true);
-            Destroy(gameObject);
+            alberoATerra = true;
+            //albero_cadente.SetActive(true);
+            //Destroy(gameObject);
+            gameObject.SetActive(false);
+            
+            for (int i = 0; i < 3; i++)
+            { 
+                Instantiate(ciocco, spawner_pos, Quaternion.identity);     
+            }
+
             UI.contatore_pezzi += alb.Pezzi;
+
+            alb.Vita = AlberoVita;
+
         }
+        else
+        {
+            alberoATerra = false;
+        }
+
+        if (gameObject.activeSelf == false)
+        {
+ 
+            Debug.Log("vita albero nuovo: " + alb.Vita);
+        }
+
     }
 
     public void OnCollisionEnter(Collision other)
