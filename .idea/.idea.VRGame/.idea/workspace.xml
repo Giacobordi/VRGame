@@ -255,16 +255,8 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Dead tree 003.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Dead tree 003.obj.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Dead tree 004.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Dead tree 004.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Dead tree 004.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Dead tree 004.obj.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 02.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 02.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 02.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 02.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 03.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 03.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 03.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 03.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 04.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 04.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 04.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 04.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 05.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 05.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 05.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 05.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 06.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 06.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 06.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 06.dae.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 02.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 02.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 02.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type0 02.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type1 01.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type1 01.dae" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type1 01.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type1 01.dae.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type1 02.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type1 02.dae" afterDir="false" />
@@ -285,42 +277,40 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type2 04.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type2 04.dae.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type2 05.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type2 05.dae" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type2 05.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type2 05.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 01.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 01.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 01.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 01.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 02.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 02.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 02.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 02.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 03.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 03.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 03.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 03.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 04.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 04.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 04.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 04.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 05.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 05.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 05.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type3 05.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 01.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 01.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 01.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 01.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 02.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 02.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 02.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 02.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 03.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 03.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 03.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 03.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 04.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 04.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 04.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 04.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 05.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 05.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 05.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type4 05.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 01.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 01.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 01.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 01.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 02.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 02.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 02.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 02.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 03.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 03.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 03.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 03.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 04.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 04.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 04.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type5 04.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 01.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 01.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 01.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 01.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 02.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 02.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 02.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 02.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 03.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 03.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 03.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 03.dae.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 04.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 04.dae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 04.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree Type6 04.dae.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_01_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_01_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_01_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_01_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_02_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_02_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_02_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_02_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_03_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_03_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_03_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_03_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_04_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_04_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_04_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_04_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_05_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_05_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_05_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type3_05_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_01_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_01_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_01_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_01_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_02_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_02_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_02_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_02_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_03_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_03_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_03_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_03_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_04_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_04_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_04_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_04_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_05_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_05_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_05_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type4_05_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type5_01_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type5_01_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type5_01_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type5_01_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type5_02_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type5_02_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type5_02_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type5_02_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type5_03_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type5_03_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type5_03_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type5_03_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type6_01_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type6_01_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type6_01_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type6_01_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type6_03_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type6_03_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type6_03_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type6_03_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type6_04_mesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type6_04_mesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type6_04_mesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Tree_Type6_04_mesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/_trees_normal.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/_trees_normal.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/_trees_normal.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/_trees_normal.mat.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Attrezzi.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Attrezzi.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Attrezzi/Axe_Curved.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Attrezzi/Axe_Curved.fbx.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Attrezzi/Axe_Straight.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Attrezzi/Axe_Straight.fbx.meta" afterDir="false" />
@@ -421,6 +411,18 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/ascia.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/ascia.fbx.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/1 Pino.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/1 Pino.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/1 Pino.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/1 Pino.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/2 Abete.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/2 Abete.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/2 Abete.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/2 Abete.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/3 Betulla.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/3 Betulla.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/3 Betulla.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/3 Betulla.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/4 Frassino.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/4 Frassino.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/4 Frassino.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/4 Frassino.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/5 Pioppo.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/5 Pioppo.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/5 Pioppo.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/5 Pioppo.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/6 Salice.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/6 Salice.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/6 Salice.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/6 Salice.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 001.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 001.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 001.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 001.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 002.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 002.prefab" afterDir="false" />
@@ -429,6 +431,60 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 003.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 003.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 004.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 004.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 004.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 004.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type0 .prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type0 .prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type0 .prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type0 .prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type1 02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type1 02.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type1 02.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type1 02.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type1 04.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type1 04.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type1 04.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type1 04.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type1 05.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type1 05.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type1 05.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type1 05.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type2 01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type2 01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type2 01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type2 01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type2 03.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type2 03.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type2 03.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type2 03.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type2 05.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type2 05.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type2 05.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type2 05.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_01_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_01_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_01_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_01_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_02_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_02_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_02_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_02_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_03_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_03_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_03_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_03_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_04_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_04_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_04_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_04_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_05_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_05_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_05_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type3_05_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_01_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_01_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_01_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_01_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_02_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_02_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_02_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_02_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_03_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_03_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_03_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_03_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_04_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_04_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_04_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_04_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_05_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_05_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_05_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type4_05_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type5_01_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type5_01_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type5_01_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type5_01_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type5_02_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type5_02_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type5_02_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type5_02_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type5_03_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type5_03_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type5_03_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type5_03_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type6_01_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type6_01_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type6_01_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type6_01_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type6_03_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type6_03_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type6_03_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type6_03_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type6_04_mesh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type6_04_mesh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type6_04_mesh.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree_Type6_04_mesh.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type1 01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type1 01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type1 01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type1 01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type1 03.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type1 03.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type1 03.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type1 03.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type2 02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type2 02.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type2 02.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type2 02.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type2 04.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type2 04.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type2 04.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type2 04.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Carro-botte-sassi.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Carro-botte-sassi.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Carro-botte-sassi/barrel_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Carro-botte-sassi/barrel_01.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Carro-botte-sassi/barrel_01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Carro-botte-sassi/barrel_01.prefab.meta" afterDir="false" />
@@ -509,6 +565,11 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/TERRAIN.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/TERRAIN.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/TERRAIN/New Terrain.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/TERRAIN/New Terrain.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/TreeAnim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/TreeAnim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/TreeAnim/SpawnTrees.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/TreeAnim/SpawnTrees.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/TreeAnim/SpawnTrees.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/TreeAnim/SpawnTrees.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/TreeAnim/growth.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/TreeAnim/growth.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/TreeAnim/growth.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/TreeAnim/growth.anim.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/WATER.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/WATER.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP.meta" afterDir="false" />
@@ -553,7 +614,22 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/greyboxing-01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/greyboxing-01.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/waves_n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/waves_n.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/Default Color Palette.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/Default Color Palette.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/Default Color Palette.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/Default Color Palette.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/Default Material Palette.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/Default Material Palette.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/Default Material Palette.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/Default Material Palette.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Samples.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/ProBuilder.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/ProBuilder.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support/.sample.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support/.sample.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support/Material.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support/Material.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support/Material/ProBuilder Default URP.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support/Material/ProBuilder Default URP.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support/Material/ProBuilder Default URP.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support/Material/ProBuilder Default URP.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support/Shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support/Shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support/Shader/Standard Vertex Color.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support/Shader/Standard Vertex Color.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support/Shader/Standard Vertex Color.shadergraph.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/ProBuilder/5.2.3/Universal Render Pipeline Support/Shader/Standard Vertex Color.shadergraph.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity.meta" afterDir="false" />
@@ -579,6 +655,8 @@
       <change beforePath="$PROJECT_DIR$/Assets/Script/collezionaLegna.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/collezionaLegna.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/meshChanger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/meshChanger.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/resetAscia.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/resetAscia.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/spawnTrees.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/spawnTrees.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/spawnTrees.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/spawnTrees.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/tronco.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/tronco.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" afterDir="false" />
@@ -1020,6 +1098,7 @@
       <change beforePath="$PROJECT_DIR$/ProjectSettings/MemorySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/MemorySettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
@@ -1050,19 +1129,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;script__lever&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Gioco-2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="$USER_HOME$/Desktop/WoodWorkerPCVR\WoodWorker.exe" />

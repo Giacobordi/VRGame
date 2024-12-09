@@ -21,8 +21,12 @@ public class alberoInteragibile : MonoBehaviour
     public static bool alberoATerra;
     public enum tipo
     {
-        acero,
-        pino
+        pino,
+        abete,
+        betulla,
+        frassino,
+        pioppo,
+        salice
     }
 
     // Start is called before the first frame update
@@ -33,9 +37,17 @@ public class alberoInteragibile : MonoBehaviour
 
         switch (albero_da_spawnare)
         {
-            case tipo.acero: alb = new Acero();
-                break;
             case tipo.pino: alb = new Pino();
+                break;
+            case tipo.abete: alb = new Abete();
+                break;
+            case tipo.betulla: alb = new Betulla();
+                break;
+            case tipo.frassino: alb = new Frassino();
+                break;
+            case tipo.pioppo: alb = new Pioppo();
+                break;
+            case tipo.salice: alb = new Salice();
                 break;
         }
         
@@ -56,7 +68,7 @@ public class alberoInteragibile : MonoBehaviour
             //Destroy(gameObject);
             gameObject.SetActive(false);
             
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < AlberoVita; i++)
             { 
                 Instantiate(ciocco, spawner_pos, Quaternion.identity);     
             }
@@ -69,12 +81,6 @@ public class alberoInteragibile : MonoBehaviour
         else
         {
             alberoATerra = false;
-        }
-
-        if (gameObject.activeSelf == false)
-        {
- 
-            Debug.Log("vita albero nuovo: " + alb.Vita);
         }
 
     }
