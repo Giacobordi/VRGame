@@ -1,5 +1,36 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1384243094439637528
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4675005234376288403}
+  m_Layer: 0
+  m_Name: SPAWNER
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4675005234376288403
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1384243094439637528}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.384, y: 6.362, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1139023813160755491}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2559449250464561066
 GameObject:
   m_ObjectHideFlags: 0
@@ -9,6 +40,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3352077802960951627}
+  - component: {fileID: -1931091007998207550}
+  - component: {fileID: -4704686354393058101}
   m_Layer: 0
   m_Name: 3 Betulla
   m_TagString: Untagged
@@ -34,6 +67,43 @@ Transform:
   - {fileID: 1139023813160755491}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &-1931091007998207550
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2559449250464561066}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-4704686354393058101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2559449250464561066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f91f0a0d4fd1a504c8fb969093218f57, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  little_tree: {fileID: 5065686520544158053}
+  medium_tree: {fileID: 195992023767262555}
+  big_tree: {fileID: 3158957652711696671}
+  animator: {fileID: -1931091007998207550}
 --- !u!1001 &1194053399421007566
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -102,6 +172,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1b0f648d5de3aba4fbca65cbc2d02ca7, type: 3}
+--- !u!1 &5065686520544158053 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6259667240528041899, guid: 1b0f648d5de3aba4fbca65cbc2d02ca7,
+    type: 3}
+  m_PrefabInstance: {fileID: 1194053399421007566}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &7944996041921028635 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 9137921239329821909, guid: 1b0f648d5de3aba4fbca65cbc2d02ca7,
@@ -173,8 +249,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 1284042598413873543, guid: f288ff40f6cd5b34b8a244d0c881f994,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4675005234376288403}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3875816767521831355, guid: f288ff40f6cd5b34b8a244d0c881f994,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4279984085090918295}
   m_SourcePrefab: {fileID: 100100000, guid: f288ff40f6cd5b34b8a244d0c881f994, type: 3}
 --- !u!4 &1139023813160755491 stripped
 Transform:
@@ -182,6 +266,30 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2170583215390445732}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &3158957652711696671 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3875816767521831355, guid: f288ff40f6cd5b34b8a244d0c881f994,
+    type: 3}
+  m_PrefabInstance: {fileID: 2170583215390445732}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4279984085090918295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3158957652711696671}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffb4730a6247be64085783eed667b66f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  albero_da_spawnare: 2
+  ciocco: {fileID: 4473043563148189463, guid: 823f16f50f72c0242ab39f52e52762fd, type: 3}
+  spawner: {fileID: 1384243094439637528}
+  spawner_pos: {x: 0, y: 0, z: 0}
+  distance: 1.5
+  AlberoVita: 0
 --- !u!1001 &8132351231378404603
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -250,6 +358,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4c4454d5aa04baa49a2a1985724c305b, type: 3}
+--- !u!1 &195992023767262555 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8242616386152567200, guid: 4c4454d5aa04baa49a2a1985724c305b,
+    type: 3}
+  m_PrefabInstance: {fileID: 8132351231378404603}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &495473964296893940 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8519592964540580111, guid: 4c4454d5aa04baa49a2a1985724c305b,
