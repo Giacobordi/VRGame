@@ -17,8 +17,9 @@ public class alberoInteragibile : MonoBehaviour
     public Vector3 spawner_pos;
     public float distance = 1.5f;
     public int AlberoVita;
+    public int numPezzi;
 
-    public static bool alberoATerra;
+    public bool alberoATerra;
     public enum tipo
     {
         pino,
@@ -34,7 +35,7 @@ public class alberoInteragibile : MonoBehaviour
     {
         ascia = GameSingleton.instance.ascia;
         //albero_cadente.SetActive(false);
-
+        alberoATerra = false;
         switch (albero_da_spawnare)
         {
             case tipo.pino: alb = new Pino();
@@ -55,8 +56,9 @@ public class alberoInteragibile : MonoBehaviour
         spawner_pos = spawner_pos2;
 
         AlberoVita = alb.Vita;
+        numPezzi = alb.Pezzi;
 
-;
+       
     }
     // Update is called once per frame
     void Update()
@@ -78,7 +80,7 @@ public class alberoInteragibile : MonoBehaviour
             alb.Vita = AlberoVita;
 
         }
-        else
+        else //if(alb.Vita >= 0)
         {
             alberoATerra = false;
         }

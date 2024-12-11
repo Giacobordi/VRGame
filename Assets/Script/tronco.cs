@@ -20,7 +20,7 @@ public class troncoz : MonoBehaviour
 
     private void OnCollisionEnter(Collision other)
     {
-        if (other.gameObject.CompareTag("tronco"))
+        if (other.gameObject.CompareTag("Tronco"))
         {
             body.isKinematic = true;
         }
@@ -28,7 +28,7 @@ public class troncoz : MonoBehaviour
 
     private void OnCollisionExit(Collision other)
     {
-        if (other.gameObject.CompareTag("tronco"))
+        if (other.gameObject.CompareTag("Tronco"))
         {
             body.isKinematic = false;
         }

@@ -8,18 +8,22 @@ public class spawnTrees : MonoBehaviour
     public GameObject medium_tree;
     public GameObject big_tree;
     public Animator animator;
+    public bool isCut;
     
     
     // Start is called before the first frame update
     void Start()
     {
-        animator.GetComponent<Animator>();
+        animator.GetComponent<Animation>();
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (alberoInteragibile.alberoATerra)
+        FindChildComponent();
+        
+        if (isCut == true)
         {
             animator.SetBool("isCut", true);
         }
@@ -36,6 +40,17 @@ public class spawnTrees : MonoBehaviour
         little_tree.SetActive(true);
     }
 
+    public void FindChildComponent()
+    {
+        foreach (Transform child in transform)
+        {
+            if (child.TryGetComponent(out alberoInteragibile ai))
+            {
+               isCut = ai.alberoATerra;
+            }
+        }
+    }
+
     public void spawnMedium()
     {
         little_tree.SetActive(false);
@@ -50,9 +65,9 @@ public class spawnTrees : MonoBehaviour
         big_tree.SetActive(true);
     }
 
-    public void BigTreeInteraction()
+    public void isCutTrue()
     {
-        
+        animator.SetBool("isCut", true);
     }
 
 }
