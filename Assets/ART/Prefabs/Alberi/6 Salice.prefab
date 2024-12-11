@@ -385,7 +385,7 @@ PrefabInstance:
     - target: {fileID: 1375106707965975558, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1375106707965975558, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
@@ -395,7 +395,7 @@ PrefabInstance:
     - target: {fileID: 1756129628551870728, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1756129628551870728, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
@@ -405,7 +405,7 @@ PrefabInstance:
     - target: {fileID: 2236272087624255927, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2236272087624255927, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
@@ -415,7 +415,7 @@ PrefabInstance:
     - target: {fileID: 2865733703255308912, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2865733703255308912, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
@@ -425,7 +425,7 @@ PrefabInstance:
     - target: {fileID: 3096913874081929298, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3096913874081929298, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
@@ -485,7 +485,7 @@ PrefabInstance:
     - target: {fileID: 6279163576815334980, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6279163576815334980, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
@@ -500,7 +500,7 @@ PrefabInstance:
     - target: {fileID: 7525755029441842066, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7525755029441842066, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
@@ -510,7 +510,7 @@ PrefabInstance:
     - target: {fileID: 7717928432139972215, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7717928432139972215, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
@@ -520,7 +520,7 @@ PrefabInstance:
     - target: {fileID: 8016929968206829405, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8016929968206829405, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
@@ -557,7 +557,7 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 8947329845809988743, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 6396527655919351172}
+      addedObject: {fileID: 1404530923917906208}
   m_SourcePrefab: {fileID: 100100000, guid: 1e0257588ec152144b76ca97c71104dd, type: 3}
 --- !u!4 &1709700052074544540 stripped
 Transform:
@@ -591,26 +591,30 @@ MonoBehaviour:
   AlberoVita: 0
   numPezzi: 0
   alberoATerra: 0
---- !u!136 &6396527655919351172
-CapsuleCollider:
+--- !u!54 &1404530923917906208
+Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2606617422784841767}
-  m_Material: {fileID: 0}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.33
-  m_Height: 4.18
-  m_Direction: 1
-  m_Center: {x: 0, y: 1.69, z: 0}
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

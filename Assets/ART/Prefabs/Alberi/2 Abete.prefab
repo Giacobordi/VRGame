@@ -83,6 +83,7 @@ MonoBehaviour:
   medium_tree: {fileID: 8200302077780265786}
   big_tree: {fileID: 1021997741969117540}
   animator: {fileID: 5475617031617076668}
+  isCut: 0
 --- !u!95 &5475617031617076668
 Animator:
   serializedVersion: 5
@@ -424,7 +425,7 @@ MonoBehaviour:
   distance: 1.5
   AlberoVita: 0
   numPezzi: 0
-  alberoATerra2: 0
+  alberoATerra: 0
 --- !u!136 &5649344442494011125
 CapsuleCollider:
   m_ObjectHideFlags: 0
