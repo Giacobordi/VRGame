@@ -32,8 +32,8 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4179335681272923618}
-  - {fileID: 1709700052074544540}
   - {fileID: 5518693592540545736}
+  - {fileID: 1709700052074544540}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &7396889470189380057
@@ -73,6 +73,7 @@ MonoBehaviour:
   medium_tree: {fileID: 4650105173832667722}
   big_tree: {fileID: 2606617422784841767}
   animator: {fileID: 7396889470189380057}
+  isCut: 0
 --- !u!1 &4649638892351658896
 GameObject:
   m_ObjectHideFlags: 0
@@ -366,6 +367,7 @@ MonoBehaviour:
   distance: 1.5
   AlberoVita: 0
   numPezzi: 0
+  alberoATerra: 0
 --- !u!4 &5518693592540545736 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 112426680712095806, guid: f7f4ec637bcc4cf45ad848c448811eb8,
@@ -555,7 +557,7 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 8947329845809988743, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 2266415259008316029}
+      addedObject: {fileID: 6396527655919351172}
   m_SourcePrefab: {fileID: 100100000, guid: 1e0257588ec152144b76ca97c71104dd, type: 3}
 --- !u!4 &1709700052074544540 stripped
 Transform:
@@ -588,7 +590,8 @@ MonoBehaviour:
   distance: 1.5
   AlberoVita: 0
   numPezzi: 0
---- !u!136 &2266415259008316029
+  alberoATerra: 0
+--- !u!136 &6396527655919351172
 CapsuleCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -607,7 +610,7 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.5
-  m_Height: 4.42
+  m_Radius: 0.33
+  m_Height: 4.18
   m_Direction: 1
-  m_Center: {x: 0, y: 1.96, z: 0}
+  m_Center: {x: 0, y: 1.69, z: 0}
