@@ -49,6 +49,11 @@ PrefabInstance:
       propertyPath: moveWithTransform
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2353600328317625555, guid: ceec7516237b4104b94300043ca39784,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2353600328335836179, guid: ceec7516237b4104b94300043ca39784,
         type: 3}
       propertyPath: m_Name
@@ -122,6 +127,21 @@ PrefabInstance:
     - target: {fileID: 2353600328335939635, guid: ceec7516237b4104b94300043ca39784,
         type: 3}
       propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5742757422391285397, guid: ceec7516237b4104b94300043ca39784,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5742757422888352936, guid: ceec7516237b4104b94300043ca39784,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8846439398488242407, guid: ceec7516237b4104b94300043ca39784,
+        type: 3}
+      propertyPath: m_Materials.Array.size
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
@@ -240,7 +260,7 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 09e515f7debf4294387feeeb16ea458d,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1124568020964407984}
+      addedObject: {fileID: 1164353772918186367}
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 09e515f7debf4294387feeeb16ea458d,
         type: 3}
       insertIndex: -1
@@ -621,9 +641,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fa3e11e3d14b4c45a90f8cbbe4ab9db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  childGameObject1: {fileID: 1124568020964407989}
+  childGameObject1: {fileID: 1164353772918186362}
   childGameObject2: {fileID: 4606538037729563309}
---- !u!1001 &8775584662707833997
+--- !u!1001 &7384490512988067650
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -635,11 +655,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CFXR4 Sword Hit PLAIN (Cross)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8525990746615576122, guid: b85d21f3b8fed714bacf0c4fd50fa512,
-        type: 3}
-      propertyPath: looping
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8525990746615576123, guid: b85d21f3b8fed714bacf0c4fd50fa512,
         type: 3}
@@ -669,12 +684,12 @@ PrefabInstance:
     - target: {fileID: 8525990746615576125, guid: b85d21f3b8fed714bacf0c4fd50fa512,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.00329
+      value: -0.00319
       objectReference: {fileID: 0}
     - target: {fileID: 8525990746615576125, guid: b85d21f3b8fed714bacf0c4fd50fa512,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.00569
+      value: 0.00581
       objectReference: {fileID: 0}
     - target: {fileID: 8525990746615576125, guid: b85d21f3b8fed714bacf0c4fd50fa512,
         type: 3}
@@ -731,15 +746,15 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b85d21f3b8fed714bacf0c4fd50fa512, type: 3}
---- !u!4 &1124568020964407984 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 8525990746615576125, guid: b85d21f3b8fed714bacf0c4fd50fa512,
-    type: 3}
-  m_PrefabInstance: {fileID: 8775584662707833997}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1124568020964407989 stripped
+--- !u!1 &1164353772918186362 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8525990746615576120, guid: b85d21f3b8fed714bacf0c4fd50fa512,
     type: 3}
-  m_PrefabInstance: {fileID: 8775584662707833997}
+  m_PrefabInstance: {fileID: 7384490512988067650}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1164353772918186367 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8525990746615576125, guid: b85d21f3b8fed714bacf0c4fd50fa512,
+    type: 3}
+  m_PrefabInstance: {fileID: 7384490512988067650}
   m_PrefabAsset: {fileID: 0}
