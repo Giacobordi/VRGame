@@ -410,9 +410,7 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/UI startMenu/UI.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/UI startMenu/UI.fbx.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/ascia.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/ascia.fbx.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/AXE_prefab_vfx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/AXE_prefab_vfx.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/1 Pino.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/1 Pino.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/1 Pino.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/1 Pino.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/2 Abete.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/2 Abete.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/2 Abete.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/2 Abete.prefab.meta" afterDir="false" />
@@ -482,12 +480,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type2 02.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type2 02.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type2 04.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type2 04.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type2 04.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Unused Type2 04.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/albero_apaint.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/albero_apaint.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/albero_apaint.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/albero_apaint.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/albero_paint_2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/albero_paint_2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/albero_paint_2.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/albero_paint_2.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/albero_paint_3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/albero_paint_3.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/albero_paint_3.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/albero_paint_3.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Carro-botte-sassi.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Carro-botte-sassi.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Carro-botte-sassi/barrel_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Carro-botte-sassi/barrel_01.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Carro-botte-sassi/barrel_01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Carro-botte-sassi/barrel_01.prefab.meta" afterDir="false" />
@@ -559,53 +551,7 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Tronchi-Funghi2/Trunk 001.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Tronchi-Funghi2/Trunk 001.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Tronchi-Funghi2/Trunk 002.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Tronchi-Funghi2/Trunk 002.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Tronchi-Funghi2/Trunk 002.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Tronchi-Funghi2/Trunk 002.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ascia_prefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ascia_prefab.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ascia_prefab.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ascia_prefab.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day1.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day2.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day2.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day3.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day3.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day4.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day4.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day4.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day4.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day5.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day5.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day5.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day5.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day6.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day6.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day6.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day6.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day7.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day7.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day7.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day7.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning1.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning2.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning2.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning3.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning3.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning4.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning4.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning4.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Morning4.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night1.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night2.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night2.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night3.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night3.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night4.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night4.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night4.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Night4.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset1.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset2.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset2.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset3.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset3.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset4.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset4.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset4.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset4.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset5.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset5.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset5.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Sunset5.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Shaders.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Shaders.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Shaders/Stylized Sky.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Shaders/Stylized Sky.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Shaders/Stylized Sky.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Shaders/Stylized Sky.shader.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/TERRAIN.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/TERRAIN.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/TERRAIN/New Terrain.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/TERRAIN/New Terrain.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/TreeAnim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/TreeAnim.meta" afterDir="false" />
@@ -692,8 +638,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/Script/Strumento_base.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Strumento_base.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/UI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/UI.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/UI.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/UI.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/VFX_Ascia.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/VFX_Ascia.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/VFX_Ascia.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/VFX_Ascia.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/alberoInteragibile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/alberoInteragibile.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/collezionaLegna.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/collezionaLegna.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/meshChanger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/meshChanger.cs" afterDir="false" />
@@ -1135,7 +1079,6 @@
       <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
@@ -1257,7 +1200,6 @@
       <workItem from="1733733669468" duration="10091000" />
       <workItem from="1733839401399" duration="6298000" />
       <workItem from="1733905191521" duration="8294000" />
-      <workItem from="1734357479323" duration="1252000" />
     </task>
     <servers />
   </component>

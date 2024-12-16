@@ -1,11 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq.Expressions;
-using Unity.Mathematics;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Tilemaps;
-using Random = UnityEngine.Random;
 
 public class alberoInteragibile : MonoBehaviour
 {
@@ -70,9 +68,9 @@ public class alberoInteragibile : MonoBehaviour
             alberoATerra = true;
             //albero_cadente.SetActive(true);
             //Destroy(gameObject);
+            gameObject.SetActive(false);
             
-            
-            for (int i = 0; i < alb.Pezzi; i++)
+            for (int i = 0; i < AlberoVita; i++)
             { 
                 Instantiate(ciocco, spawner_pos, Quaternion.identity);     
             }
@@ -80,8 +78,7 @@ public class alberoInteragibile : MonoBehaviour
             UI.contatore_pezzi += alb.Pezzi;
 
             alb.Vita = AlberoVita;
-            
-            gameObject.SetActive(false);
+
         }
         else //if(alb.Vita >= 0)
         {
