@@ -104,6 +104,7 @@ MonoBehaviour:
   medium_tree: {fileID: 5653553484282223890}
   big_tree: {fileID: 7397883994613550518}
   animator: {fileID: 2792704166384282112}
+  isCut: 0
 --- !u!1001 &3491534141695567645
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -174,6 +175,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6259717066389236395, guid: 40f1899456b5dab4fa6f2ce2677aab14,
         type: 3}
+      propertyPath: m_TagString
+      value: Albero
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259717066389236395, guid: 40f1899456b5dab4fa6f2ce2677aab14,
+        type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -220,6 +226,8 @@ MonoBehaviour:
   spawner_pos: {x: 0, y: 0, z: 0}
   distance: 1.5
   AlberoVita: 0
+  numPezzi: 0
+  alberoATerra: 0
 --- !u!1001 &4221627350558664605
 PrefabInstance:
   m_ObjectHideFlags: 0

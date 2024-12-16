@@ -240,6 +240,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 281820878163495114, guid: 15792e9ea585e774592964182f3cea7c,
         type: 3}
+      propertyPath: m_TagString
+      value: Albero
+      objectReference: {fileID: 0}
+    - target: {fileID: 281820878163495114, guid: 15792e9ea585e774592964182f3cea7c,
+        type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -247,6 +252,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1583341138576583400, guid: 15792e9ea585e774592964182f3cea7c,
+        type: 3}
+      propertyPath: m_TagString
+      value: Albero
       objectReference: {fileID: 0}
     - target: {fileID: 1583341138576583400, guid: 15792e9ea585e774592964182f3cea7c,
         type: 3}
@@ -315,6 +325,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4739598067508130010, guid: 15792e9ea585e774592964182f3cea7c,
         type: 3}
+      propertyPath: m_TagString
+      value: Albero
+      objectReference: {fileID: 0}
+    - target: {fileID: 4739598067508130010, guid: 15792e9ea585e774592964182f3cea7c,
+        type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -322,6 +337,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5672054075592651967, guid: 15792e9ea585e774592964182f3cea7c,
+        type: 3}
+      propertyPath: m_TagString
+      value: Albero
       objectReference: {fileID: 0}
     - target: {fileID: 5672054075592651967, guid: 15792e9ea585e774592964182f3cea7c,
         type: 3}
@@ -332,6 +352,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6366756975966242273, guid: 15792e9ea585e774592964182f3cea7c,
+        type: 3}
+      propertyPath: m_TagString
+      value: Albero
       objectReference: {fileID: 0}
     - target: {fileID: 6366756975966242273, guid: 15792e9ea585e774592964182f3cea7c,
         type: 3}
@@ -342,6 +367,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6783174432886376851, guid: 15792e9ea585e774592964182f3cea7c,
+        type: 3}
+      propertyPath: m_TagString
+      value: Albero
       objectReference: {fileID: 0}
     - target: {fileID: 6783174432886376851, guid: 15792e9ea585e774592964182f3cea7c,
         type: 3}
@@ -352,6 +382,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Tree_Type4_05_mesh
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084894754075704751, guid: 15792e9ea585e774592964182f3cea7c,
+        type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7084894754075704751, guid: 15792e9ea585e774592964182f3cea7c,
         type: 3}
