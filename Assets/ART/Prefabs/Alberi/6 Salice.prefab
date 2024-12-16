@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: -3816000004808438019}
   m_Layer: 0
   m_Name: 6 Salice
-  m_TagString: Untagged
+  m_TagString: Albero
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -389,6 +389,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1375106707965975558, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
+      propertyPath: m_TagString
+      value: Albero
+      objectReference: {fileID: 0}
+    - target: {fileID: 1375106707965975558, guid: 1e0257588ec152144b76ca97c71104dd,
+        type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -396,6 +401,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1756129628551870728, guid: 1e0257588ec152144b76ca97c71104dd,
+        type: 3}
+      propertyPath: m_TagString
+      value: Albero
       objectReference: {fileID: 0}
     - target: {fileID: 1756129628551870728, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
@@ -406,6 +416,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2236272087624255927, guid: 1e0257588ec152144b76ca97c71104dd,
+        type: 3}
+      propertyPath: m_TagString
+      value: Albero
       objectReference: {fileID: 0}
     - target: {fileID: 2236272087624255927, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
@@ -416,6 +431,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865733703255308912, guid: 1e0257588ec152144b76ca97c71104dd,
+        type: 3}
+      propertyPath: m_TagString
+      value: Albero
       objectReference: {fileID: 0}
     - target: {fileID: 2865733703255308912, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
@@ -426,6 +446,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3096913874081929298, guid: 1e0257588ec152144b76ca97c71104dd,
+        type: 3}
+      propertyPath: m_TagString
+      value: Albero
       objectReference: {fileID: 0}
     - target: {fileID: 3096913874081929298, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
@@ -489,6 +514,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6279163576815334980, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
+      propertyPath: m_TagString
+      value: Albero
+      objectReference: {fileID: 0}
+    - target: {fileID: 6279163576815334980, guid: 1e0257588ec152144b76ca97c71104dd,
+        type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -504,6 +534,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7525755029441842066, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
+      propertyPath: m_TagString
+      value: Albero
+      objectReference: {fileID: 0}
+    - target: {fileID: 7525755029441842066, guid: 1e0257588ec152144b76ca97c71104dd,
+        type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -511,6 +546,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7717928432139972215, guid: 1e0257588ec152144b76ca97c71104dd,
+        type: 3}
+      propertyPath: m_TagString
+      value: Albero
       objectReference: {fileID: 0}
     - target: {fileID: 7717928432139972215, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}
@@ -521,6 +561,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8016929968206829405, guid: 1e0257588ec152144b76ca97c71104dd,
+        type: 3}
+      propertyPath: m_TagString
+      value: Albero
       objectReference: {fileID: 0}
     - target: {fileID: 8016929968206829405, guid: 1e0257588ec152144b76ca97c71104dd,
         type: 3}

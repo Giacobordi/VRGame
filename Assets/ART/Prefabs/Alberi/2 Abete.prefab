@@ -375,6 +375,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4991526516236247664, guid: 5dcef147619f8d3459978662e4e7ffff,
         type: 3}
+      propertyPath: m_TagString
+      value: Albero
+      objectReference: {fileID: 0}
+    - target: {fileID: 4991526516236247664, guid: 5dcef147619f8d3459978662e4e7ffff,
+        type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}

@@ -360,6 +360,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6625561355879563163, guid: bc7a49fce574383458b00e014a5d8f7c,
         type: 3}
+      propertyPath: m_TagString
+      value: Albero
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625561355879563163, guid: bc7a49fce574383458b00e014a5d8f7c,
+        type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -422,6 +427,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8141254935013181019, guid: bc7a49fce574383458b00e014a5d8f7c,
+        type: 3}
+      propertyPath: m_TagString
+      value: Albero
       objectReference: {fileID: 0}
     - target: {fileID: 8141254935013181019, guid: bc7a49fce574383458b00e014a5d8f7c,
         type: 3}
