@@ -70,7 +70,7 @@ public class alberoInteragibile : MonoBehaviour
             //Destroy(gameObject);
             gameObject.SetActive(false);
             
-            for (int i = 0; i < AlberoVita; i++)
+            for (int i = 0; i < alb.Pezzi; i++)
             { 
                 Instantiate(ciocco, spawner_pos, Quaternion.identity);     
             }

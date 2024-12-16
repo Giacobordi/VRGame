@@ -485,7 +485,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   albero_da_spawnare: 4
-  ciocco: {fileID: 4473043563148189463, guid: 823f16f50f72c0242ab39f52e52762fd, type: 3}
+  ciocco: {fileID: 5335325952366507312, guid: f9a76d2747ef5ea458544ccf9dc2539e, type: 3}
   spawner: {fileID: 6564831609412180152}
   spawner_pos: {x: 0, y: 0, z: 0}
   distance: 1.5
