@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2914804063059953592
 Transform:
@@ -42,12 +42,13 @@ GameObject:
   - component: {fileID: 4819245148167985999}
   - component: {fileID: 2582690006615504560}
   - component: {fileID: -1151715650050588274}
+  - component: {fileID: -2695248187632628658}
   m_Layer: 0
   m_Name: 4 Frassino
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4819245148167985999
 Transform:
@@ -105,6 +106,24 @@ MonoBehaviour:
   big_tree: {fileID: 4344789617545843928}
   animator: {fileID: 2582690006615504560}
   isCut: 0
+--- !u!205 &-2695248187632628658
+LODGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6386819378614640930}
+  serializedVersion: 2
+  m_LocalReferencePoint: {x: 0, y: 0, z: 0}
+  m_Size: 1
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
+  m_LastLODIsBillboard: 0
+  m_LODs:
+  - screenRelativeHeight: 0.6
+    fadeTransitionWidth: 0
+    renderers: []
+  m_Enabled: 1
 --- !u!1001 &6669219014560023217
 PrefabInstance:
   m_ObjectHideFlags: 0

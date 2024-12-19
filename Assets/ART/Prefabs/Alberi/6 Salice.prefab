@@ -11,12 +11,13 @@ GameObject:
   - component: {fileID: 7484012640351347858}
   - component: {fileID: 7396889470189380057}
   - component: {fileID: -3816000004808438019}
+  - component: {fileID: -5027815960951413032}
   m_Layer: 0
   m_Name: 6 Salice
   m_TagString: Albero
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7484012640351347858
 Transform:
@@ -74,6 +75,24 @@ MonoBehaviour:
   big_tree: {fileID: 2606617422784841767}
   animator: {fileID: 7396889470189380057}
   isCut: 0
+--- !u!205 &-5027815960951413032
+LODGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3151845878374266573}
+  serializedVersion: 2
+  m_LocalReferencePoint: {x: 0, y: 0, z: 0}
+  m_Size: 1
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
+  m_LastLODIsBillboard: 0
+  m_LODs:
+  - screenRelativeHeight: 0.6
+    fadeTransitionWidth: 0
+    renderers: []
+  m_Enabled: 1
 --- !u!1 &4649638892351658896
 GameObject:
   m_ObjectHideFlags: 0
@@ -88,7 +107,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7660822741616501809
 Transform:

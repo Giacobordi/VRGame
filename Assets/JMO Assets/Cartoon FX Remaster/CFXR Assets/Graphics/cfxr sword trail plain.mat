@@ -24,16 +24,19 @@ Material:
   m_Shader: {fileID: 4800000, guid: 650dd9526735d5b46b79224bc6e94025, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
+  m_ValidKeywords:
+  - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords:
   - _EMISSION
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 3000
   stringTagMap:
-    RenderType: Opaque
-  disabledShaderPasses: []
+    RenderType: Transparent
+  disabledShaderPasses:
+  - DepthOnly
+  - SHADOWCASTER
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -91,8 +94,8 @@ Material:
     - _DissolveSmooth: 0.025
     - _Distort: 0.1
     - _DoubleDissolve: 1
-    - _DstBlend: 0
-    - _DstBlendAlpha: 0
+    - _DstBlend: 10
+    - _DstBlendAlpha: 10
     - _EdgeFadePow: 1
     - _FadeAlongU: 0
     - _HdrBoost: 0
@@ -109,9 +112,9 @@ Material:
     - _SingleChannel: 1
     - _SoftParticlesFadeDistanceFar: 1
     - _SoftParticlesFadeDistanceNear: 0
-    - _SrcBlend: 1
+    - _SrcBlend: 5
     - _SrcBlendAlpha: 1
-    - _Surface: 0
+    - _Surface: 1
     - _UVDistortionAdd: 0
     - _UseAlphaClip: 0
     - _UseBackLighting: 0
@@ -128,10 +131,10 @@ Material:
     - _UseSecondColor: 0
     - _UseUV2Distortion: 0
     - _UseUVDistortion: 0
-    - _ZWrite: 1
+    - _ZWrite: 0
     m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 0.40392157}
+    - _Color: {r: 1, g: 1, b: 1, a: 0.40392157}
     - _DissolveScroll: {r: -0.5, g: 0, b: 0, a: 0}
     - _DistortScrolling: {r: 0, g: 0, b: 1, a: 1}
     - _OverlayTex_Scroll: {r: 1, g: 0, b: 0.5, a: 1}
