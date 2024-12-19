@@ -245,7 +245,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu/UI Variant.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu/UI Variant.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu/UI Variant.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu/UI Variant.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu/Wood worker.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu/Wood worker.renderTexture" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu/Wood worker.renderTexture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu/Wood worker.renderTexture.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi.meta" afterDir="false" />
@@ -414,17 +413,12 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/AXE_prefab_vfx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/AXE_prefab_vfx.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/1 Pino.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/1 Pino.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/1 Pino.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/1 Pino.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/2 Abete.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/2 Abete.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/2 Abete.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/2 Abete.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/3 Betulla.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/3 Betulla.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/3 Betulla.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/3 Betulla.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/4 Frassino.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/4 Frassino.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/4 Frassino.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/4 Frassino.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/5 Pioppo.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/5 Pioppo.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/5 Pioppo.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/5 Pioppo.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/6 Salice.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/6 Salice.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/6 Salice.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/6 Salice.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 001.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 001.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 001.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 001.prefab.meta" afterDir="false" />
@@ -432,7 +426,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 002.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 002.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 003.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 003.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 003.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 003.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 004.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 004.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 004.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Dead tree 004.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type0 .prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type0 .prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type0 .prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Alberi/Tree Type0 .prefab.meta" afterDir="false" />
@@ -563,6 +556,10 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/Tronchi-Funghi2/Trunk 002.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/Tronchi-Funghi2/Trunk 002.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ascia_prefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ascia_prefab.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ascia_prefab.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ascia_prefab.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/frassino_pioppo.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/frassino_pioppo.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/pino_abete.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/pino_abete.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/salice.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/salice.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day1.mat" afterDir="false" />
@@ -658,7 +655,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/greyboxing-01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/greyboxing-01.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/waves_n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/waves_n.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX FREE (old legacy effects).unitypackage.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor.meta" afterDir="false" />
@@ -1514,7 +1510,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Welcome Screen/CFXR_WelcomeScreen.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Welcome Screen/CFXR_WelcomeScreen.uss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Welcome Screen/CFXR_WelcomeScreen.uss.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Welcome Screen/CFXR_WelcomeScreen.uss.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Welcome Screen/CFXR_WelcomeScreen.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Welcome Screen/CFXR_WelcomeScreen.uxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Welcome Screen/CFXR_WelcomeScreen.uxml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Welcome Screen/CFXR_WelcomeScreen.uxml.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Welcome Screen/CFXR_WelcomeScreen_Background.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Welcome Screen/CFXR_WelcomeScreen_Background.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/Default Color Palette.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/Default Color Palette.asset" afterDir="false" />
@@ -1549,6 +1544,7 @@
       <change beforePath="$PROJECT_DIR$/Assets/Script/HandAnimated.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/HandAnimated.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Pino.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Pino.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Pino.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Pino.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ScoreHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/ScoreHandler.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Strumento_base.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Strumento_base.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Strumento_base.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Strumento_base.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/UI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/UI.cs" afterDir="false" />
@@ -2019,7 +2015,6 @@
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
@@ -2130,7 +2125,8 @@
       <workItem from="1733733669468" duration="10091000" />
       <workItem from="1733839401399" duration="6298000" />
       <workItem from="1733905191521" duration="8294000" />
-      <workItem from="1734363981908" duration="78000" />
+      <workItem from="1734363982002" duration="1257000" />
+      <workItem from="1734598971480" duration="3196000" />
     </task>
     <servers />
   </component>

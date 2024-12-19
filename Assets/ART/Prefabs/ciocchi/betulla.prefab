@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2320987127706280167}
   - component: {fileID: 32011956344160187}
-  - component: {fileID: 1472911904410508227}
   - component: {fileID: 7585119347970801648}
   - component: {fileID: 8711966307368494966}
+  - component: {fileID: 1472911904410508227}
   m_Layer: 0
   m_Name: betulla
   m_TagString: betulla
@@ -59,24 +59,6 @@ CapsuleCollider:
   m_Height: 1.28
   m_Direction: 1
   m_Center: {x: -0.21, y: 0.38, z: 0.29}
---- !u!114 &1472911904410508227
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7011018810561463579}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 5.04
-  precomputeOutline: 0
-  bakeKeys: []
-  bakeValues: []
 --- !u!54 &7585119347970801648
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -256,6 +238,24 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
+--- !u!114 &1472911904410508227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7011018810561463579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  outlineMode: 0
+  outlineColor: {r: 1, g: 1, b: 1, a: 1}
+  outlineWidth: 5
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1001 &2548937142039269986
 PrefabInstance:
   m_ObjectHideFlags: 0

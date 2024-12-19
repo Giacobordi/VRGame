@@ -5,10 +5,10 @@ using UnityEngine.SocialPlatforms.Impl;
 
 public class ScoreHandler : MonoBehaviour
 {
-    public int pino_abete;
-    public int salice;
-    public int betulla;
-    public int frassino_pioppo;
+    public static int pino_abete;
+    public static int salice;
+    public static int betulla;
+    public static int frassino_pioppo;
     
     // Start is called before the first frame update
     void Start()

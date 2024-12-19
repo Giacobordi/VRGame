@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2459855210912192242}
   - component: {fileID: 7595043589128596338}
   - component: {fileID: 5546550990543836041}
-  - component: {fileID: 419585318346022689}
+  - component: {fileID: 5031362491743842267}
   m_Layer: 0
   m_Name: pino_abete
   m_TagString: pino_abete
@@ -238,7 +238,7 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
---- !u!114 &419585318346022689
+--- !u!114 &5031362491743842267
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -252,7 +252,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   outlineMode: 0
   outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 5
+  outlineWidth: 9.27
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []

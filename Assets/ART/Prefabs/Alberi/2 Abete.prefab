@@ -40,8 +40,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8152235564552443708}
-  - component: {fileID: 7361121588370386886}
   - component: {fileID: 5475617031617076668}
+  - component: {fileID: 7361121588370386886}
   m_Layer: 0
   m_Name: 2 Abete
   m_TagString: Untagged
@@ -67,23 +67,6 @@ Transform:
   - {fileID: 4809267581115342285}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &7361121588370386886
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3277691105117472114}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f91f0a0d4fd1a504c8fb969093218f57, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  little_tree: {fileID: 6091855780919577475}
-  medium_tree: {fileID: 8200302077780265786}
-  big_tree: {fileID: 1021997741969117540}
-  animator: {fileID: 5475617031617076668}
-  isCut: 0
 --- !u!95 &5475617031617076668
 Animator:
   serializedVersion: 5
@@ -105,6 +88,23 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7361121588370386886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3277691105117472114}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f91f0a0d4fd1a504c8fb969093218f57, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  little_tree: {fileID: 6091855780919577475}
+  medium_tree: {fileID: 8200302077780265786}
+  big_tree: {fileID: 1021997741969117540}
+  animator: {fileID: 5475617031617076668}
+  isCut: 0
 --- !u!1001 &1758214047793944024
 PrefabInstance:
   m_ObjectHideFlags: 0
