@@ -1,44 +1,90 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq.Expressions;
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
 public class alberoInteragibile : MonoBehaviour
 {
     public Albero_base alb;
     public Ascia ascia;
-    public GameObject albero;
-    public GameObject albero_cadente;
+    //public GameObject albero;
+    //public GameObject albero_cadente;
     public tipo albero_da_spawnare;
+    public GameObject ciocco;
+    public GameObject spawner;
+    public Vector3 spawner_pos;
+    public float distance = 1.5f;
+    public int AlberoVita;
+    public int numPezzi;
+
+    public bool alberoATerra;
     public enum tipo
     {
-        acero,
-        pino
+        pino,
+        abete,
+        betulla,
+        frassino,
+        pioppo,
+        salice
     }
 
     // Start is called before the first frame update
     void Start()
     {
         ascia = GameSingleton.instance.ascia;
-        albero_cadente.SetActive(false);
+        //albero_cadente.SetActive(false);
+        alberoATerra = false;
         switch (albero_da_spawnare)
         {
-            case tipo.acero: alb = new Acero();
-                break;
             case tipo.pino: alb = new Pino();
                 break;
+            case tipo.abete: alb = new Abete();
+                break;
+            case tipo.betulla: alb = new Betulla();
+                break;
+            case tipo.frassino: alb = new Frassino();
+                break;
+            case tipo.pioppo: alb = new Pioppo();
+                break;
+            case tipo.salice: alb = new Salice();
+                break;
         }
+        
+        Vector3 spawner_pos2 = new Vector3(Random.Range(spawner.transform.position.x + distance, spawner.transform.position.x - distance), spawner.transform.position.y , Random.Range(spawner.transform.position.z + distance, spawner.transform.position.z - distance) );
+        spawner_pos = spawner_pos2;
 
+        AlberoVita = alb.Vita;
+        numPezzi = alb.Pezzi;
+
+       
     }
     // Update is called once per frame
     void Update()
     {
         if(alb.Vita == 0)
         {
-            albero_cadente.SetActive(true);
-            Destroy(gameObject);
+            alberoATerra = true;
+            //albero_cadente.SetActive(true);
+            //Destroy(gameObject);
+            gameObject.SetActive(false);
+            
+            for (int i = 0; i < alb.Pezzi; i++)
+            { 
+                Instantiate(ciocco, spawner_pos, Quaternion.identity);     
+            }
+
             UI.contatore_pezzi += alb.Pezzi;
+
+            alb.Vita = AlberoVita;
+
         }
+        else //if(alb.Vita >= 0)
+        {
+            alberoATerra = false;
+        }
+
     }
 
     public void OnCollisionEnter(Collision other)

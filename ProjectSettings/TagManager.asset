@@ -8,6 +8,10 @@ TagManager:
   - Tronco
   - mano
   - Albero
+  - pino_abete
+  - salice
+  - betulla
+  - frassino_pioppo
   layers:
   - Default
   - TransparentFX
@@ -15,7 +19,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ascia
   - 
   - 
   - 

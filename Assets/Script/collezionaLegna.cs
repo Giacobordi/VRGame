@@ -17,9 +17,11 @@ public class collezionaLegna : MonoBehaviour
         
     }
 
-    public void raccogliLegna()
+    public void onTriggerEnter(Collider collision)
     {
-        Destroy(gameObject);
-        Debug.Log("su");
+        if (collision.CompareTag("cassa"))
+        {
+            Destroy(gameObject);
+        }
     }
 }
