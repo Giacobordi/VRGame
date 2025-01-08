@@ -63,7 +63,7 @@ public class alberoInteragibile : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(alb.Vita == 0)
+        if(alb.Vita <= 0)
         {
             alberoATerra = true;
             //albero_cadente.SetActive(true);
