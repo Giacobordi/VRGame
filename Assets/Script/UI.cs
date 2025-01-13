@@ -25,10 +25,10 @@ public class UI : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        this.pino_abete = ScoreHandler.pino_abete;
-        this.salice = ScoreHandler.salice;
-        this.betulla = ScoreHandler.betulla;
-        this.frassino_pioppo = ScoreHandler.frassino_pioppo;
+        this.pino_abete = ScoreHandler.playerPrefPA;
+        this.salice = ScoreHandler.playerPrefS;
+        this.betulla = ScoreHandler.playerPrefB;
+        this.frassino_pioppo = ScoreHandler.playerPrefFP;
         
         pezzo1.text = this.pino_abete.ToString();
         pezzo2.text = this.salice.ToString();

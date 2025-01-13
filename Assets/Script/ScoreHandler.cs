@@ -11,10 +11,10 @@ public class ScoreHandler : MonoBehaviour
     public static int betulla;
     public static int frassino_pioppo;
 
-    public int playerPrefPA;
-    public int playerPrefS;
-    public int playerPrefB;
-    public int playerPrefFP;
+    public static int playerPrefPA;
+    public static int playerPrefS;
+    public static int playerPrefB;
+    public static int playerPrefFP;
     
     // Start is called before the first frame update
     void Start()
