@@ -12,6 +12,8 @@ TagManager:
   - salice
   - betulla
   - frassino_pioppo
+  - triggerporta
+  - martello
   layers:
   - Default
   - TransparentFX

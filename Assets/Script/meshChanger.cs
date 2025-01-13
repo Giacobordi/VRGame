@@ -21,7 +21,7 @@ public class meshChanger : MonoBehaviour
 
     void OnCollisionEnter(Collision other)
     {
-        if (other.gameObject.CompareTag("Ascia"))
+        if (other.gameObject.CompareTag("mano"))
         {
             modeYouWantToChange.mesh = myMesh;
         }

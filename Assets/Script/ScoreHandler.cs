@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,6 +10,11 @@ public class ScoreHandler : MonoBehaviour
     public static int salice;
     public static int betulla;
     public static int frassino_pioppo;
+
+    public int playerPrefPA;
+    public int playerPrefS;
+    public int playerPrefB;
+    public int playerPrefFP;
     
     // Start is called before the first frame update
     void Start()
@@ -50,4 +56,21 @@ public class ScoreHandler : MonoBehaviour
         }
     }
 
+    public void OnEnable()
+    {
+        playerPrefPA = PlayerPrefs.GetInt("pino_abete");
+        playerPrefS = PlayerPrefs.GetInt("salice");
+        playerPrefB = PlayerPrefs.GetInt("betulla");
+        playerPrefFP = PlayerPrefs.GetInt("frassino_pioppo");
+
+        Debug.Log("pino_abete = " + pino_abete);
+    }
+
+    private void OnDisable()
+    {
+        PlayerPrefs.SetInt("pino_abete", pino_abete);
+        PlayerPrefs.SetInt("salice", salice);
+        PlayerPrefs.SetInt("betulla", betulla);
+        PlayerPrefs.SetInt("frassino_pioppo", frassino_pioppo);
+    }
 }

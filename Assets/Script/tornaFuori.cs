@@ -1,12 +1,10 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class resetAscia : MonoBehaviour
+public class tornaFuori : MonoBehaviour
 {
-
     // Start is called before the first frame update
     void Start()
     {
@@ -21,11 +19,10 @@ public class resetAscia : MonoBehaviour
 
     public void OnTriggerEnter(Collider other)
     {
-        Debug.Log("OnTriggerEnter");
         if (other.CompareTag("triggerporta"))
         {
-            Debug.Log("scemocoglione");
-            SceneManager.LoadScene("InternoCasa");
+            Debug.Log("Trigger enter");
+            SceneManager.LoadScene("GameScene");
         }
     }
 }
