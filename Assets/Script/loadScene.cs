@@ -19,9 +19,9 @@ public class resetAscia : MonoBehaviour
         
     }
 
-    public void OnCollisionEnter(Collision other)
+    public void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("mano"))
+        if (other.CompareTag("mano"))
         {
             SceneManager.LoadScene("InternoCasa");
         }
