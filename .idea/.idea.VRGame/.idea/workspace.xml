@@ -249,6 +249,12 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu/UI Variant.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu/UI Variant.mat.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu/Wood worker.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu/Wood worker.renderTexture" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu/Wood worker.renderTexture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/UI startMenu/Wood worker.renderTexture.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/arredo.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/arredo.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/arredo.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/arredo.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/arredo.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/arredo.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/tavolo.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/tavolo.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/tavolo.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/tavolo.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/tavolo.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/tavolo.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Dead tree 001.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Models-mesh/Alberi/Dead tree 001.obj" afterDir="false" />
@@ -578,18 +584,42 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/camino.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/camino.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/camino.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/camino.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla render.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla render.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla render.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla render.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla.renderTexture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla.renderTexture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla.renderTexture.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/CIOCCO_1.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/CIOCCO_1.fbx.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/CIOCCO_2.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/CIOCCO_2.fbx.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/CIOCCO_3.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/CIOCCO_3.fbx.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/CIOCCO_4.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/CIOCCO_4.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo render.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo render.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo render.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo render.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo.renderTexture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo.renderTexture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo.renderTexture.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/PinoA render.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/PinoA render.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/PinoA render.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/PinoA render.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Pino_Abete.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Pino_Abete.renderTexture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Pino_Abete.renderTexture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Pino_Abete.renderTexture.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice render.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice render.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice render.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice render.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice.renderTexture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice.renderTexture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice.renderTexture.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla_Render.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla_Render.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla_Render.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla_Render.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/frassino_pioppo.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/frassino_pioppo.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/frassino_pioppo.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/frassino_pioppo.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/frassino_pioppo_Render.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/frassino_pioppo_Render.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/frassino_pioppo_Render.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/frassino_pioppo_Render.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/pino_abete.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/pino_abete.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/pino_abete.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/pino_abete.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/pino_abete_render.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/pino_abete_render.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/pino_abete_render.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/pino_abete_render.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/salice.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/salice.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/salice.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/salice.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/salice_Render.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/salice_Render.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/salice_Render.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/salice_Render.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/SKYBOX/Materials/Day1.mat" afterDir="false" />
@@ -689,7 +719,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/greyboxing-01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/greyboxing-01.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/waves_n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/waves_n.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX FREE (old legacy effects).unitypackage.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Editor.meta" afterDir="false" />
@@ -1679,19 +1708,21 @@
       <change beforePath="$PROJECT_DIR$/Assets/Script/VFX_Ascia.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/VFX_Ascia.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/alberoInteragibile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/alberoInteragibile.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/collezionaLegna.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/collezionaLegna.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/creaTavolo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/creaTavolo.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/loadScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/loadScene.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/loadScene.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/loadScene.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/meshChanger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/meshChanger.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/meshChanger.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/meshChanger.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/spawnTrees.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/spawnTrees.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/spawnTrees.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/spawnTrees.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/tornaFuori.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/tornaFuori.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/tronco.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/tronco.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-Balanced-Renderer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-Balanced-Renderer.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-Balanced-Renderer.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-Balanced-Renderer.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-Balanced.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-Balanced.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-Balanced.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-Balanced.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta" afterDir="false" />
@@ -1815,7 +1846,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/OculusSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/OculusSettings.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Editor Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Editor Settings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Editor Settings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Editor Settings.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Package Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Package Settings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Package Settings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Package Settings.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/XRSimulationSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/XRSimulationSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/XRSimulationSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/XRSimulationSettings.asset.meta" afterDir="false" />
@@ -2122,20 +2152,17 @@
       <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/MemorySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/MemorySettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TimelineSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimelineSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
@@ -2154,6 +2181,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Script/ScoreHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/tornaFuori.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@2.6.3/Runtime/Interaction/Interactables/XRGrabInteractable.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -2165,19 +2193,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="$USER_HOME$/Desktop/WoodWorkerPCVR\WoodWorker.exe" />
@@ -2250,7 +2278,8 @@
       <workItem from="1734363982002" duration="1257000" />
       <workItem from="1734598971480" duration="3196000" />
       <workItem from="1734609248050" duration="1000" />
-      <workItem from="1736757006056" duration="54000" />
+      <workItem from="1736757002489" duration="7108000" />
+      <workItem from="1736774483909" duration="3246000" />
     </task>
     <servers />
   </component>
