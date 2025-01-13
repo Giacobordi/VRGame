@@ -7,10 +7,10 @@ using TMPro;
 public class UI : MonoBehaviour
 {
     public static int contatore_pezzi;
-    [SerializeField] TextMeshProUGUI pezzo1;
-    [SerializeField] TextMeshProUGUI pezzo2;
-    [SerializeField] TextMeshProUGUI pezzo3;
-    [SerializeField] TextMeshProUGUI pezzo4;
+    [SerializeField] TextMeshProUGUI pezzoPA;
+    [SerializeField] TextMeshProUGUI pezzoS;
+    [SerializeField] TextMeshProUGUI pezzoB;
+    [SerializeField] TextMeshProUGUI pezzoFP;
     
     public int pino_abete;
     public int salice;
@@ -25,15 +25,15 @@ public class UI : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        this.pino_abete = ScoreHandler.pino_abete;
-        this.salice = ScoreHandler.salice;
-        this.betulla = ScoreHandler.betulla;
-        this.frassino_pioppo = ScoreHandler.frassino_pioppo;
+        this.pino_abete = ScoreHandler.playerPrefPA;
+        this.salice = ScoreHandler.playerPrefS;
+        this.betulla = ScoreHandler.playerPrefB;
+        this.frassino_pioppo = ScoreHandler.playerPrefFP;
         
-        pezzo1.text = this.pino_abete.ToString();
-        pezzo2.text = this.salice.ToString();
-        pezzo3.text = this.betulla.ToString();
-        pezzo4.text = this.frassino_pioppo.ToString();
+        pezzoPA.text = this.pino_abete.ToString();
+        pezzoS.text = this.salice.ToString();
+        pezzoB.text = this.betulla.ToString();
+        pezzoFP.text = this.frassino_pioppo.ToString();
     }
 
     public void Start_Game()
