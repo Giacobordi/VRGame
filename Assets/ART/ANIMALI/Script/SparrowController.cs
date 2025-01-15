@@ -8,10 +8,10 @@ public class SparrowController : MonoBehaviour
     public float groundSpeed = 3.5f;
     public float minFlyForce = 200f;
     public float maxFlyForce = 400f;
-    public float minFlyTime = 1.5f;
-    public float maxFlyTime = 4.0f;
-    public float minIdleTime = 0.5f;
-    public float maxIdleTime = 2.0f;
+    public float minFlyTime = 3.0f;
+    public float maxFlyTime = 7.0f;
+    public float minIdleTime = 1.0f;
+    public float maxIdleTime = 3.0f;
 
     private NavMeshAgent agent;
     private Animator animator;

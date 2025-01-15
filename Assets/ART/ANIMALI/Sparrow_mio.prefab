@@ -472,10 +472,10 @@ MonoBehaviour:
   groundSpeed: 3.5
   minFlyForce: 200
   maxFlyForce: 400
-  minFlyTime: 1.5
-  maxFlyTime: 4
-  minIdleTime: 0.5
-  maxIdleTime: 2
+  minFlyTime: 3
+  maxFlyTime: 7
+  minIdleTime: 1
+  maxIdleTime: 3
 --- !u!54 &3491814551102560024
 Rigidbody:
   m_ObjectHideFlags: 0

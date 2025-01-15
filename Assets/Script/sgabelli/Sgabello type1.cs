@@ -33,6 +33,8 @@ public class Sgabellotype1 : MonoBehaviour
         
     }
 
+
+
     public void OnCollisionEnter(Collision other)
     {
         if (other.gameObject.CompareTag("martello"))
@@ -83,4 +85,6 @@ public class Sgabellotype1 : MonoBehaviour
             
         }
     }
+
+
 }
