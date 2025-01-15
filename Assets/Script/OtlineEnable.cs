@@ -4,16 +4,14 @@ public class OutlineEnable : MonoBehaviour
 {
     public GameObject axe; // L'oggetto che contiene l'ascia
     public string playerTag = "Player"; // Tag assegnato al giocatore
-    public MonoBehaviour componentToToggle; // Il componente da attivare/disattivare
+    //public MonoBehaviour componentToToggle; // Il componente da attivare/disattivare
+    public GameObject outlineer;
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag(playerTag))
         {
-            if (componentToToggle != null)
-            {
-                componentToToggle.enabled = false; // Disattiva il componente
-            }
+            outlineer.GetComponent<Outline>().enabled = false;
         }
     }
 
@@ -21,10 +19,7 @@ public class OutlineEnable : MonoBehaviour
     {
         if (other.CompareTag(playerTag))
         {
-            if (componentToToggle != null)
-            {
-                componentToToggle.enabled = true; // Riattiva il componente
-            }
+            outlineer.GetComponent<Outline>().enabled = true;
         }
     }
 }
