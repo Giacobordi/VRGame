@@ -75,10 +75,6 @@ public class Sgabellotype2 : MonoBehaviour
                 counter = 2;
             }
 
-            else
-            {
-                Debug.Log("non fare niente");
-            }
         }
     }
 }

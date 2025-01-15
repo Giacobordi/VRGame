@@ -20,6 +20,11 @@ public class Sgabellotype1 : MonoBehaviour
         sgabello2.SetActive(false);
         sgabello3.SetActive(false);
         sgabello4.SetActive(false);
+        
+        Debug.Log("playerPrefPA" + ScoreHandler.playerPrefPA);
+        Debug.Log("playerPrefS" + ScoreHandler.playerPrefS);
+        Debug.Log("playerPrefB" + ScoreHandler.playerPrefB);
+        Debug.Log("playerPrefFP" + ScoreHandler.playerPrefFP);
     }
 
     // Update is called once per frame
@@ -32,6 +37,7 @@ public class Sgabellotype1 : MonoBehaviour
     {
         if (other.gameObject.CompareTag("martello"))
         {
+            Debug.Log("entriamo in collisione");
             if (counter == 0 && ScoreHandler.playerPrefB == 2)
             {
                 Debug.Log("counter: "+ counter);
@@ -74,11 +80,7 @@ public class Sgabellotype1 : MonoBehaviour
             {
                 counter = 2;
             }
-
-            else
-            {
-                Debug.Log("non fare niente");
-            }
+            
         }
     }
 }

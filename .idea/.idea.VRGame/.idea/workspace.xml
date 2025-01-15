@@ -163,9 +163,7 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/house_01_light_wood.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/house_01_light_wood.mat.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/house_01_logs.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/house_01_logs.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/house_01_logs.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/house_01_logs.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/house_01_pipe.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/house_01_pipe.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/house_01_pipe.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/house_01_pipe.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/house_01_roof.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/house_01_roof.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/house_01_roof.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/house_01_roof.mat.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/landscape.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/landscape.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/landscape.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Mat-Texture/Carro-botte-sassi/Materials/landscape.mat.meta" afterDir="false" />
@@ -586,7 +584,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla render.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla render.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla render.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla render.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla.renderTexture" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla.renderTexture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Betulla.renderTexture.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/CIOCCO_1.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/CIOCCO_1.fbx.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/CIOCCO_2.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/CIOCCO_2.fbx.meta" afterDir="false" />
@@ -594,16 +591,19 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/CIOCCO_4.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/CIOCCO_4.fbx.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo render.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo render.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo render.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo render.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo.renderTexture" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo.renderTexture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Frassino_Pioppo.renderTexture.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/PinoA render.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/PinoA render.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/PinoA render.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/PinoA render.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Pino_Abete.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Pino_Abete.renderTexture" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Pino_Abete.renderTexture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Pino_Abete.renderTexture.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice render.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice render.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice render.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice render.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice.renderTexture" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice.renderTexture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Salice.renderTexture.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Sgabello.renderTexture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Sgabello.renderTexture.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/SgabelloMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/SgabelloMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/SgabelloMat.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/SgabelloMat.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Sgabeo.renderTexture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/Sgabeo.renderTexture.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/SgabeoMAt.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/SgabeoMAt.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/SgabeoMAt.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/SgabeoMAt.mat.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla_Render.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/Prefabs/ciocchi/betulla_Render.prefab" afterDir="false" />
@@ -718,6 +718,8 @@
       <change beforePath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/greyboxing-01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/greyboxing-01.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/waves_n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/WATER/StylisedWater/URP/Textures/waves_n.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/hammer.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/hammer.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ART/sgabello.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ART/sgabello.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets.meta" afterDir="false" />
@@ -1678,12 +1680,12 @@
       <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.6.3/XR Device Simulator/XR Device Simulator Controls.inputactions.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.6.3/XR Device Simulator/XR Device Simulator Controls.inputactions.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.6.3/XR Device Simulator/XR Device Simulator.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.6.3/XR Device Simulator/XR Device Simulator.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/InternoCasa.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/InternoCasa.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/InternoCasa.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/InternoCasa.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/workbench.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/workbench.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Albero_base.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Albero_base.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Albero_base.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Albero_base.cs.meta" afterDir="false" />
@@ -1708,12 +1710,13 @@
       <change beforePath="$PROJECT_DIR$/Assets/Script/VFX_Ascia.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/VFX_Ascia.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/alberoInteragibile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/alberoInteragibile.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/collezionaLegna.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/collezionaLegna.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/creaTavolo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/creaTavolo.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/loadScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/loadScene.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/loadScene.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/loadScene.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/meshChanger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/meshChanger.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/meshChanger.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/meshChanger.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/sgabelli/Sgabello type 2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/sgabelli/Sgabello type 2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/sgabelli/Sgabello type1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/sgabelli/Sgabello type1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/sgabelli/creaTavolo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/sgabelli/creaTavolo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/spawnTrees.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/spawnTrees.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/spawnTrees.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/spawnTrees.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/tornaFuori.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/tornaFuori.cs" afterDir="false" />
@@ -1832,7 +1835,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/XR/Oculus Hands/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Oculus Hands/Prefabs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/XR/Oculus Hands/Prefabs/Brown_Glov.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Oculus Hands/Prefabs/Brown_Glov.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/XR/Oculus Hands/Prefabs/Brown_Glov.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Oculus Hands/Prefabs/Brown_Glov.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Oculus Hands/Prefabs/Left Hand Model.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Oculus Hands/Prefabs/Left Hand Model.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/XR/Oculus Hands/Prefabs/Left Hand Model.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Oculus Hands/Prefabs/Left Hand Model.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/XR/Oculus Hands/Prefabs/Right Hand Model.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Oculus Hands/Prefabs/Right Hand Model.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/XR/Oculus Hands/Prefabs/Right Hand Model.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Oculus Hands/Prefabs/Right Hand Model.prefab.meta" afterDir="false" />
@@ -2280,6 +2282,7 @@
       <workItem from="1734609248050" duration="1000" />
       <workItem from="1736757002489" duration="7108000" />
       <workItem from="1736774483909" duration="3246000" />
+      <workItem from="1736934380133" duration="2520000" />
     </task>
     <servers />
   </component>
