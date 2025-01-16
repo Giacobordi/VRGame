@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: 56113b3b655ab7349bab4d7d405c258a, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 7ff1a07e6ae6cab478e4dca3750263cb, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -3399,7 +3399,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 0.78113204, g: 0.6683328, b: 0.47015306, a: 1}
+  m_Color: {r: 0.4113207, g: 0.4113207, b: 0.4113207, a: 1}
   m_Intensity: 3
   m_Range: 10
   m_SpotAngle: 30
@@ -5297,14 +5297,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68a8a9b12084a9e4fa4b1019ba8377d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pezzoPA: {fileID: 0}
-  pezzoS: {fileID: 0}
-  pezzoB: {fileID: 0}
-  pezzoFP: {fileID: 0}
-  pino_abete: 0
-  salice: 0
-  betulla: 0
-  frassino_pioppo: 0
+  testoUI: {fileID: 0}
 --- !u!114 &1276746336
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5423,12 +5416,12 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 09e515f7debf4294387feeeb16ea458d,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.1996987
+      value: -2.9910393
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 09e515f7debf4294387feeeb16ea458d,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.821579
+      value: -10.147362
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 09e515f7debf4294387feeeb16ea458d,
         type: 3}
@@ -7295,6 +7288,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1800158799}
+    - targetCorrespondingSourceObject: {fileID: 7267378777978957431, guid: f5bd1b648c2766b40805fae6cab6f017,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1458468479}
     - targetCorrespondingSourceObject: {fileID: 4852679031939195565, guid: f5bd1b648c2766b40805fae6cab6f017,
         type: 3}
       insertIndex: -1
@@ -7303,18 +7300,14 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 351594874}
-    - targetCorrespondingSourceObject: {fileID: 7267378777978957431, guid: f5bd1b648c2766b40805fae6cab6f017,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1458468479}
-    - targetCorrespondingSourceObject: {fileID: 5437547015001171616, guid: f5bd1b648c2766b40805fae6cab6f017,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1326187925}
     - targetCorrespondingSourceObject: {fileID: 2021958159512262181, guid: f5bd1b648c2766b40805fae6cab6f017,
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1266623056}
+    - targetCorrespondingSourceObject: {fileID: 5437547015001171616, guid: f5bd1b648c2766b40805fae6cab6f017,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1326187925}
   m_SourcePrefab: {fileID: 100100000, guid: f5bd1b648c2766b40805fae6cab6f017, type: 3}
 --- !u!1 &1690148794 stripped
 GameObject:

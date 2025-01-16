@@ -44,7 +44,7 @@ public class UI : MonoBehaviour
 
     public void Exit_game()
     {
-        Application.Quit();
+
     }
 
     public void Resume()

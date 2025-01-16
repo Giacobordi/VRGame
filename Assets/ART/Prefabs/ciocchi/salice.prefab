@@ -30,8 +30,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.9, y: 0.9, z: 0.9}
-  m_ConstrainProportionsScale: 1
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8476360313578318934}
   m_Father: {fileID: 0}
@@ -56,9 +56,9 @@ CapsuleCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.18
-  m_Height: 1.44
+  m_Height: 1.52
   m_Direction: 1
-  m_Center: {x: 0.03, y: 0, z: -0.06}
+  m_Center: {x: 0, y: 0, z: -0.03}
 --- !u!54 &1667353506771387991
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -297,27 +297,27 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 71b5c020d6baad741944f7b75c9590bb,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.6232883
+      value: 0.62347287
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 71b5c020d6baad741944f7b75c9590bb,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.015069523
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 71b5c020d6baad741944f7b75c9590bb,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.018897548
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 71b5c020d6baad741944f7b75c9590bb,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.7816186
+      value: 0.78184503
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 71b5c020d6baad741944f7b75c9590bb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -2.77
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 71b5c020d6baad741944f7b75c9590bb,
         type: 3}
