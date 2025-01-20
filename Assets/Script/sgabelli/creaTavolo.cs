@@ -33,7 +33,7 @@ public class creaTavolo : MonoBehaviour
     {
         if (other.gameObject.CompareTag("martello"))
         {
-            if (counter == 0 && ScoreHandler.playerPrefPA == 3 && ScoreHandler.playerPrefS == 3 && ScoreHandler.playerPrefB == 3 && ScoreHandler.playerPrefFP == 3)
+            if (counter == 0 && ScoreHandler.playerPrefPA >= 3 && ScoreHandler.playerPrefS >= 3 && ScoreHandler.playerPrefB >= 3 && ScoreHandler.playerPrefFP >= 3)
             {
                 Debug.Log("counter: "+ counter);
                 tavolo1.SetActive(false);
@@ -49,7 +49,7 @@ public class creaTavolo : MonoBehaviour
                 counter++;
             }
 
-            else if (counter == 1 && ScoreHandler.playerPrefPA == 5 && ScoreHandler.playerPrefS == 5 && ScoreHandler.playerPrefB == 5 && ScoreHandler.playerPrefFP == 5)
+            else if (counter == 1 && ScoreHandler.playerPrefPA >= 5 && ScoreHandler.playerPrefS >= 5 && ScoreHandler.playerPrefB >= 5 && ScoreHandler.playerPrefFP >= 5)
             {
                 Debug.Log("counter: "+ counter);
                 tavolo2.SetActive(false);
@@ -65,7 +65,7 @@ public class creaTavolo : MonoBehaviour
                 counter++;
             }
 
-            else if (counter == 2 && ScoreHandler.playerPrefPA == 7 && ScoreHandler.playerPrefS == 7 && ScoreHandler.playerPrefB == 7 && ScoreHandler.playerPrefFP == 7)
+            else if (counter == 2 && ScoreHandler.playerPrefPA >= 7 && ScoreHandler.playerPrefS >= 7 && ScoreHandler.playerPrefB >= 7 && ScoreHandler.playerPrefFP >= 7)
             {
                 Debug.Log("counter: "+ counter);
                 tavolo3.SetActive(false);

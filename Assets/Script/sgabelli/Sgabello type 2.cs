@@ -32,7 +32,7 @@ public class Sgabellotype2 : MonoBehaviour
     {
         if (other.gameObject.CompareTag("martello"))
         {
-            if (counter == 0 && ScoreHandler.playerPrefPA == 2)
+            if (counter == 0 && ScoreHandler.playerPrefPA >= 2)
             {
                 Debug.Log("counter: "+ counter);
                 sgabello1.SetActive(false);
@@ -42,7 +42,7 @@ public class Sgabellotype2 : MonoBehaviour
                 counter++;
             }
 
-            else if (counter == 1 && ScoreHandler.playerPrefPA == 2 && ScoreHandler.playerPrefS == 1)
+            else if (counter == 1 && ScoreHandler.playerPrefPA >= 2 && ScoreHandler.playerPrefS >= 1)
             {
                 Debug.Log("counter: "+ counter);
                 sgabello2.SetActive(false);
@@ -54,7 +54,7 @@ public class Sgabellotype2 : MonoBehaviour
                 counter++;
             }
 
-            else if (counter == 2 && ScoreHandler.playerPrefPA == 2 && ScoreHandler.playerPrefS == 2 && ScoreHandler.playerPrefFP == 1)
+            else if (counter == 2 && ScoreHandler.playerPrefPA >= 2 && ScoreHandler.playerPrefS >= 2 && ScoreHandler.playerPrefFP >= 1)
             {
                 Debug.Log("counter: "+ counter);
                 sgabello3.SetActive(false);
