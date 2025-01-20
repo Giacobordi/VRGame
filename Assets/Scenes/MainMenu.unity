@@ -4005,14 +4005,6 @@ MonoBehaviour:
         m_Groups: 
         m_Action: Position
         m_Flags: 0
-      - m_Name: 
-        m_Id: dffde2c2-6191-4e58-bd72-194c8e0559ff
-        m_Path: <HandheldARInputDevice>/devicePosition
-        m_Interactions: 
-        m_Processors: 
-        m_Groups: 
-        m_Action: Position
-        m_Flags: 0
       m_Flags: 0
     m_Reference: {fileID: 0}
   m_RotationInput:
@@ -4028,14 +4020,6 @@ MonoBehaviour:
       - m_Name: 
         m_Id: 2718436d-55c3-41c9-aaf0-582d5894e2f9
         m_Path: <XRHMD>/centerEyeRotation
-        m_Interactions: 
-        m_Processors: 
-        m_Groups: 
-        m_Action: Rotation
-        m_Flags: 0
-      - m_Name: 
-        m_Id: fcc7e10d-ec04-44a4-a21e-ce0c92eb4001
-        m_Path: <HandheldARInputDevice>/deviceRotation
         m_Interactions: 
         m_Processors: 
         m_Groups: 
@@ -4107,7 +4091,7 @@ Camera:
   m_ShutterSpeed: 0.005
   m_Aperture: 16
   m_FocusDistance: 10
-  m_FocalLength: 50
+  m_FocalLength: 16.2467
   m_BladeCount: 5
   m_Curvature: {x: 2, y: 11}
   m_BarrelClipping: 0.25
