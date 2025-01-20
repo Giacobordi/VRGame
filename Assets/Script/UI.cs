@@ -39,12 +39,12 @@ public class UI : MonoBehaviour
     public void Start_Game()
     {
         //Debug.Log("porcodio");
-        SceneManager.LoadScene("GameScene");
+        SceneManager.LoadSceneAsync("GameScene");
     }
 
     public void Exit_game()
     {
-
+        Application.Quit();
     }
 
     public void Resume()

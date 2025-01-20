@@ -22,7 +22,7 @@ public class tornaFuori : MonoBehaviour
         if (other.CompareTag("triggerporta"))
         {
             Debug.Log("Trigger enter");
-            SceneManager.LoadScene("GameScene");
+            SceneManager.LoadSceneAsync("GameScene");
         }
     }
 }

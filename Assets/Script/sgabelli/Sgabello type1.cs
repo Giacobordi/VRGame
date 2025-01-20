@@ -40,7 +40,7 @@ public class Sgabellotype1 : MonoBehaviour
         if (other.gameObject.CompareTag("martello"))
         {
             Debug.Log("entriamo in collisione");
-            if (counter == 0 && ScoreHandler.playerPrefB == 2)
+            if (counter == 0 && ScoreHandler.playerPrefB == 0)
             {
                 Debug.Log("counter: "+ counter);
                 sgabello1.SetActive(false);

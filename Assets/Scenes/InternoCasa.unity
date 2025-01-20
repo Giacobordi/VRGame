@@ -4928,6 +4928,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9000272706099652835, guid: 17b846564668d0a48a3c4d0937c86977,
+        type: 3}
+      propertyPath: componentToToggle
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9442,7 +9447,7 @@ GameObject:
   m_Component:
   - component: {fileID: 286915068}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Renders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9568,12 +9573,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 289480263}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.097, y: 7.6259737, z: -0.9336968}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 130.95724, y: 1.2931557, z: -113.48777}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 392816951}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &291742688
 PrefabInstance:
@@ -13708,6 +13713,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 289480267}
   - {fileID: 2027888386}
   - {fileID: 181953295}
   - {fileID: 1121061296}
@@ -64054,7 +64060,6 @@ SceneRoots:
   - {fileID: 349067317289284408}
   - {fileID: 8770386791115967612}
   - {fileID: 241053676486289187}
-  - {fileID: 289480267}
   - {fileID: 5869609433020726652}
   - {fileID: 495759206}
   - {fileID: 1368923950}

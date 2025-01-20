@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class OutlineEnable : MonoBehaviour
@@ -6,6 +7,10 @@ public class OutlineEnable : MonoBehaviour
     public string playerTag = "Player"; // Tag assegnato al giocatore
     public MonoBehaviour componentToToggle; // Il componente da attivare/disattivare
 
+    public void Start()
+    {
+        componentToToggle.enabled = true;
+    }
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag(playerTag))

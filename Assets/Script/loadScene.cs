@@ -25,7 +25,7 @@ public class resetAscia : MonoBehaviour
         if (other.CompareTag("triggerporta"))
         {
             Debug.Log("scemocoglione");
-            SceneManager.LoadScene("InternoCasa");
+            SceneManager.LoadSceneAsync("InternoCasa");
         }
     }
 }
